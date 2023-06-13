@@ -1,0 +1,24 @@
+# This file is deprecated as per GLEP 56 in favor of metadata.xml.
+# Please add your descriptions to your package's metadata.xml ONLY.
+# * generated automatically using pmaint *
+
+app-shells/powerlevel10k:nerd-fonts - Install MesloLGS Nerd Font
+gnome-extra/gnome-tweaks:gnome-shell - Install gnome-base/gnome-shell tweaks
+kde-plasma/breeze:kde-cli-tools - Install kde-plasma/kde-cli-tools
+media-fonts/meslo-nerd:lgl - Install large line gap variant
+media-fonts/meslo-nerd:lgm - Install medium line gap variant
+media-fonts/meslo-nerd:lgs - Install small line gap variant
+media-fonts/meslo-nerd:mono - Install with monospaced Nerd Font glyphs
+media-fonts/meslo-nerd:wide - Install with wide Nerd Font glyphs
+media-fonts/nerd-fonts-symbols:mono - Install with monospaced Nerd Font glyphs
+media-fonts/nerd-fonts-symbols:wide - Install with wide Nerd Font glyphs
+media-fonts/terminess-nerd:mono - Install with monospaced Nerd Font glyphs
+media-fonts/terminess-nerd:wide - Install with wide Nerd Font glyphs
+media-plugins/obs-wlrobs:dmabuf - Enable the dmabuf backend
+media-plugins/obs-wlrobs:scpy - Enable the scpy backend
+media-sound/qpwgraph:trayicon - Build support for tray icon
+net-misc/synology-drive-client:nautilus - Install the gnome-base/nautilus extension
+sys-apps/zenmonitor3:cli - Enables the CLI
+x11-misc/ly:openrc - install provided OpenRC service
+x11-misc/ly:runit - install provided runit service
+x11-misc/ly:systemd - install provided systemd service
