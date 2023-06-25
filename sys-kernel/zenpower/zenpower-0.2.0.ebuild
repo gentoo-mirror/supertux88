@@ -1,13 +1,13 @@
-# Copyright 2022 Gentoo Authors
+# Copyright 2022-2023 Gentoo Authors
 # Distributed under the terms of the GNU General Public License v2
 
-EAPI=7
+EAPI=8
 
-inherit linux-mod
+inherit linux-mod-r1
 
 DESCRIPTION="Linux kernel driver for reading sensors of AMD Zen family CPUs"
-HOMEPAGE="https://github.com/Ta180m/zenpower3"
-SRC_URI="https://github.com/Ta180m/zenpower3/archive/v${PV}.tar.gz -> ${P}.tar.gz"
+HOMEPAGE="https://git.exozy.me/a/zenpower3"
+SRC_URI="https://git.exozy.me/a/zenpower3/archive/v${PV}.tar.gz -> ${P}.tar.gz"
 
 LICENSE="GPL-2"
 SLOT="0"
@@ -20,13 +20,17 @@ DEPEND=""
 RDEPEND="${DEPEND}"
 BDEPEND=""
 
-S=${WORKDIR}/zenpower3-${PV}
-MODULE_NAMES="zenpower(misc:${S})"
-BUILD_TARGETS="modules"
+S=${WORKDIR}/zenpower3
 
 src_prepare() {
 	# Set kernel build dir
 	sed -i "s@^KERNEL_BUILD.*@KERNEL_BUILD := ${KV_DIR}@" "${S}/Makefile" || die "Could not fix build path"
 
 	default
+}
+
+src_compile() {
+	local modlist=( zenpower=misc:"${S}" )
+
+	linux-mod-r1_src_compile
 }
