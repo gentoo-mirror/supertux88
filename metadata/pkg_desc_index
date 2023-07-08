@@ -6,7 +6,7 @@ app-shells/gitstatus 1.5.4: Git status for Bash and Zsh prompt
 app-shells/powerlevel10k 1.19.0: A theme for Zsh. It emphasizes speed, flexibility and out-of-the-box experience.
 dev-util/cargo-expand 1.0.56: Subcommand to show the result of macro expansion and #[derive] expansion.
 dev-util/cargo-watch 8.4.0: Watches over your Cargo project’s source
-dev-util/trunk 0.17.1: Build, bundle & ship your Rust WASM application to the web.
+dev-util/trunk 0.17.2: Build, bundle & ship your Rust WASM application to the web.
 dev-util/wasm-pack 0.12.1: 📦✨ your favorite rust -> wasm workflow tool!
 gnome-extra/gnome-tweaks 40.10-r1: Customize advanced GNOME options
 gui-apps/clipman 1.6.1: A simple clipboard manager for Wayland
