@@ -14,7 +14,7 @@ gui-apps/wev 1.0.0: wayland event viewer
 gui-apps/wl-mirror 0.13.1: A simple Wayland output mirror client
 gui-apps/wluma 4.2.0: Automatic brightness adjustment based on screen contents and ALS
 gui-apps/ydotool 1.0.4: Generic command-line automation tool (no X!)
-kde-plasma/breeze 5.27.5: Breeze visual style for the Plasma desktop
+kde-plasma/breeze 5.27.5 5.27.6: Breeze visual style for the Plasma desktop
 media-fonts/meslo-nerd 3.0.1: Nerd Font build of Apple's Menlo font, patched by ryanoasis
 media-fonts/nerd-fonts-symbols 3.0.1: High number of extra glyphs from popular 'iconic fonts'
 media-fonts/terminess-nerd 3.0.1: Nerd Font build of Terminus font, patched by ryanoasis
