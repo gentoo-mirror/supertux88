@@ -24,7 +24,7 @@ media-plugins/obs-backgroundremoval 1.1.2: OBS plugin for removing background
 media-plugins/obs-livesplit-one 0.2.1: A plugin for OBS Studio that allows adding LiveSplit One as a source
 media-plugins/obs-vkcapture 1.4.1: OBS Linux Vulkan/OpenGL game capture
 media-plugins/obs-wlrobs 1.1 9999: An obs-studio plugin for screen capture on wlroots based wayland compositors
-media-sound/qpwgraph 0.4.4: PipeWire Graph Qt GUI Interface
+media-sound/qpwgraph 0.5.1: PipeWire Graph Qt GUI Interface
 net-im/teams-for-linux 1.2.7: Unofficial Microsoft Teams for Linux client
 net-misc/synology-drive-client 3.3.0.15082: Desktop utility of the DSM add-on package Synology Drive Server
 net-misc/warpinator 1.6.4: Share files across the LAN
