@@ -2,6 +2,8 @@
 # Please add your descriptions to your package's metadata.xml ONLY.
 # * generated automatically using pmaint *
 
+app-admin/dotter:scripting - Enable scripting support with rhai helpers
+app-admin/dotter:watch - Enable watch sub-command
 app-shells/powerlevel10k:nerd-fonts - Install MesloLGS Nerd Font
 gnome-extra/gnome-tweaks:gnome-shell - Install gnome-base/gnome-shell tweaks
 kde-plasma/breeze:kde-cli-tools - Install kde-plasma/kde-cli-tools

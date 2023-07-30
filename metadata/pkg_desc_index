@@ -6,7 +6,7 @@ app-shells/gitstatus 1.5.4: Git status for Bash and Zsh prompt
 app-shells/powerlevel10k 1.19.0: A theme for Zsh. It emphasizes speed, flexibility and out-of-the-box experience.
 dev-util/cargo-expand 1.0.56 1.0.62: Subcommand to show the result of macro expansion and #[derive] expansion.
 dev-util/cargo-watch 8.4.0: Watches over your Cargo project’s source
-dev-util/trunk 0.17.2: Build, bundle & ship your Rust WASM application to the web.
+dev-util/trunk 0.17.3: Build, bundle & ship your Rust WASM application to the web.
 dev-util/wasm-pack 0.12.1: 📦✨ your favorite rust -> wasm workflow tool!
 gnome-extra/gnome-tweaks 40.10-r1: Customize advanced GNOME options
 gui-apps/clipman 1.6.1: A simple clipboard manager for Wayland
@@ -30,6 +30,7 @@ net-misc/synology-drive-client 3.3.0.15082: Desktop utility of the DSM add-on pa
 net-misc/warpinator 1.6.4: Share files across the LAN
 sci-electronics/openhantek6022 3.3.2.2: DSO software for Hantek USB digital signal oscilloscopes 6022BE / BL
 sys-apps/dool 1.2.0: Versatile replacement for vmstat, iostat and ifstat (clone of dstat)
+sys-apps/jless 0.9.0: A command-line JSON viewer
 sys-apps/skiller-ctl 0.1 9999: Control the additional features of Sharkoon Skiller (Pro/Pro+) keyboards
 sys-apps/zenmonitor 1.4.2 9999: Monitoring software for AMD Zen-based CPUs
 sys-apps/zenmonitor3 2.0.0 9999: Monitoring software for AMD Zen-based CPUs with Zen 3 support
