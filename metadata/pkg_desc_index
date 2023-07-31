@@ -14,7 +14,7 @@ gui-apps/wev 1.0.0: wayland event viewer
 gui-apps/wl-mirror 0.13.1: A simple Wayland output mirror client
 gui-apps/wluma 4.3.0: Automatic brightness adjustment based on screen contents and ALS
 gui-apps/ydotool 1.0.4: Generic command-line automation tool (no X!)
-kde-plasma/breeze 5.27.5 5.27.6: Breeze visual style for the Plasma desktop
+kde-plasma/breeze 5.27.6: Breeze visual style for the Plasma desktop
 media-fonts/meslo-nerd 3.0.1: Nerd Font build of Apple's Menlo font, patched by ryanoasis
 media-fonts/nerd-fonts-symbols 3.0.1: High number of extra glyphs from popular 'iconic fonts'
 media-fonts/terminess-nerd 3.0.1: Nerd Font build of Terminus font, patched by ryanoasis
@@ -36,5 +36,6 @@ sys-apps/zenmonitor 1.4.2 9999: Monitoring software for AMD Zen-based CPUs
 sys-apps/zenmonitor3 2.0.0 9999: Monitoring software for AMD Zen-based CPUs with Zen 3 support
 sys-kernel/it87 9999: IT87 sensors module
 sys-kernel/zenpower 0.2.0 9999: Linux kernel driver for reading sensors of AMD Zen family CPUs
+www-servers/miniserve 0.24.0: For when you really just want to serve some files over HTTP right now!
 x11-apps/xfhd 9999: xfhd is a utility for resizing an X window to Full HD
 x11-misc/ly 0.6.0 9999: a TUI display manager
