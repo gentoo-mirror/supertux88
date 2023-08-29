@@ -16,6 +16,7 @@ media-fonts/nerd-fonts-symbols:mono - Install with monospaced Nerd Font glyphs
 media-fonts/nerd-fonts-symbols:wide - Install with wide Nerd Font glyphs
 media-fonts/terminess-nerd:mono - Install with monospaced Nerd Font glyphs
 media-fonts/terminess-nerd:wide - Install with wide Nerd Font glyphs
+media-plugins/obs-livesplit-one:auto-splitting - Enable auto-splitting feature
 media-plugins/obs-wlrobs:dmabuf - Enable the dmabuf backend
 media-plugins/obs-wlrobs:scpy - Enable the scpy backend
 media-sound/qpwgraph:trayicon - Build support for tray icon
