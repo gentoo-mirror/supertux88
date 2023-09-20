@@ -22,7 +22,7 @@ media-fonts/terminus-ttf 4.49.3: A TrueType version of Terminus Font
 media-gfx/corrupter 1.0: Simple image glitcher suitable for producing nice looking lockscreens
 media-plugins/obs-backgroundremoval 1.1.5: OBS plugin for removing background
 media-plugins/obs-livesplit-one 0.3.2: A plugin for OBS Studio that allows adding LiveSplit One as a source
-media-plugins/obs-vkcapture 1.4.2: OBS Linux Vulkan/OpenGL game capture
+media-plugins/obs-vkcapture 1.4.3: OBS Linux Vulkan/OpenGL game capture
 media-plugins/obs-wlrobs 1.1 9999: An obs-studio plugin for screen capture on wlroots based wayland compositors
 media-sound/qpwgraph 0.5.2: PipeWire Graph Qt GUI Interface
 net-im/teams-for-linux 1.3.8: Unofficial Microsoft Teams for Linux client
