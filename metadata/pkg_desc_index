@@ -4,7 +4,7 @@ app-misc/google-cloud-cli 444.0.0: Google Cloud SDK
 app-misc/google-cloud-cli-gke-gcloud-auth-plugin 444.0.0: A kubectl authentication plugin for GKE
 app-shells/gitstatus 1.5.4: Git status for Bash and Zsh prompt
 app-shells/powerlevel10k 1.19.0: A theme for Zsh. It emphasizes speed, flexibility and out-of-the-box experience.
-dev-util/cargo-expand 1.0.70: Subcommand to show the result of macro expansion and #[derive] expansion.
+dev-util/cargo-expand 1.0.71: Subcommand to show the result of macro expansion and #[derive] expansion.
 dev-util/cargo-watch 8.4.1: Watches over your Cargo project’s source
 dev-util/trunk 0.17.5: Build, bundle & ship your Rust WASM application to the web.
 dev-util/wasm-pack 0.12.1: 📦✨ your favorite rust -> wasm workflow tool!
@@ -14,7 +14,7 @@ gui-apps/wev 1.0.0: wayland event viewer
 gui-apps/wl-mirror 0.13.2: A simple Wayland output mirror client
 gui-apps/wluma 4.3.0: Automatic brightness adjustment based on screen contents and ALS
 gui-apps/ydotool 1.0.4: Generic command-line automation tool (no X!)
-kde-plasma/breeze 5.27.7: Breeze visual style for the Plasma desktop
+kde-plasma/breeze 5.27.8-r1: Breeze visual style for the Plasma desktop
 media-fonts/meslo-nerd 3.0.1: Nerd Font build of Apple's Menlo font, patched by ryanoasis
 media-fonts/nerd-fonts-symbols 3.0.1: High number of extra glyphs from popular 'iconic fonts'
 media-fonts/terminess-nerd 3.0.1: Nerd Font build of Terminus font, patched by ryanoasis
