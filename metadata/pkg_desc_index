@@ -1,5 +1,6 @@
 app-admin/dotter 0.13.0-r2: A dotfile manager and templater written in rust
 app-containers/dnsname-cni-plugin 1.3.1: name resolution for containers
+app-containers/podman-compose 1.0.6: A script to run docker-compose.yml using podman
 app-misc/google-cloud-cli 444.0.0: Google Cloud SDK
 app-misc/google-cloud-cli-gke-gcloud-auth-plugin 444.0.0: A kubectl authentication plugin for GKE
 app-shells/gitstatus 1.5.4: Git status for Bash and Zsh prompt
