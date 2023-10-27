@@ -19,7 +19,6 @@ media-fonts/terminess-nerd:wide - Install with wide Nerd Font glyphs
 media-plugins/obs-livesplit-one:auto-splitting - Enable auto-splitting feature
 media-plugins/obs-wlrobs:dmabuf - Enable the dmabuf backend
 media-plugins/obs-wlrobs:scpy - Enable the scpy backend
-media-sound/qpwgraph:trayicon - Build support for tray icon
 net-misc/synology-drive-client:nautilus - Install the gnome-base/nautilus extension
 sys-apps/zenmonitor3:cli - Enables the CLI
 x11-misc/ly:openrc - install provided OpenRC service
