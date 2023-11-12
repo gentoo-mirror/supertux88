@@ -5,7 +5,7 @@ EAPI=8
 
 inherit cmake
 
-ONNXRUNTIME_VERSION=1.15.1
+ONNXRUNTIME_VERSION=1.16.0
 
 DESCRIPTION="OBS plugin for removing background"
 HOMEPAGE="https://github.com/royshil/obs-backgroundremoval"
@@ -27,7 +27,7 @@ DEPEND="
 		dev-qt/qtwidgets:5
 	)
 	>=media-video/obs-studio-29
-	>=media-libs/opencv-4.7.0
+	>=media-libs/opencv-4.7.0:=
 	video_cards_nvidia? (
 		dev-libs/cudnn
 		sci-libs/tensorflow
