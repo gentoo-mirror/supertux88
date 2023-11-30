@@ -16,9 +16,9 @@ gui-apps/wl-mirror 0.14.2: A simple Wayland output mirror client
 gui-apps/wluma 4.3.0: Automatic brightness adjustment based on screen contents and ALS
 gui-apps/ydotool 1.0.4: Generic command-line automation tool (no X!)
 kde-plasma/breeze 5.27.9-r1: Breeze visual style for the Plasma desktop
-media-fonts/meslo-nerd 3.0.1: Nerd Font build of Apple's Menlo font, patched by ryanoasis
-media-fonts/nerd-fonts-symbols 3.0.1: High number of extra glyphs from popular 'iconic fonts'
-media-fonts/terminess-nerd 3.0.1: Nerd Font build of Terminus font, patched by ryanoasis
+media-fonts/meslo-nerd 3.1.1: Nerd Font build of Apple's Menlo font, patched by ryanoasis
+media-fonts/nerd-fonts-symbols 3.1.1: High number of extra glyphs from popular 'iconic fonts'
+media-fonts/terminess-nerd 3.1.1: Nerd Font build of Terminus font, patched by ryanoasis
 media-fonts/terminus-ttf 4.49.3: A TrueType version of Terminus Font
 media-gfx/corrupter 1.0: Simple image glitcher suitable for producing nice looking lockscreens
 media-plugins/obs-backgroundremoval 1.1.7: OBS plugin for removing background
