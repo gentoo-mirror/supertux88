@@ -6,6 +6,7 @@ app-misc/google-cloud-cli-gke-gcloud-auth-plugin 455.0.0: A kubectl authenticati
 app-shells/gitstatus 1.5.4: Git status for Bash and Zsh prompt
 app-shells/powerlevel10k 1.19.0: A theme for Zsh. It emphasizes speed, flexibility and out-of-the-box experience.
 app-shells/zoxide 0.9.2: A smarter cd command for your terminal
+dev-util/bacon 2.13.0: background rust compiler
 dev-util/cargo-expand 1.0.74: Subcommand to show the result of macro expansion and #[derive] expansion.
 dev-util/cargo-watch 8.4.1: Watches over your Cargo project’s source
 dev-util/trunk 0.18.0: Build, bundle & ship your Rust WASM application to the web.
