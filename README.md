@@ -151,6 +151,9 @@ The following packages are available in this overlay:
 * sys-apps/zenmonitor3
   * Monitoring software for AMD Zen-based CPUs with Zen 3 support
   * https://github.com/Ta180m/zenmonitor3
+* sys-cluster/open-lens
+  * Open Source IDE for Kubernetes
+  * https://github.com/MuhammedKalkan/OpenLens
 * sys-kernel/it87
   * IT87 sensors module
   * https://github.com/a1wong/it87
@@ -163,6 +166,12 @@ The following packages are available in this overlay:
 * x11-apps/xfhd
   * xfhd is a utility for resizing an X window to Full HD
   * https://github.com/r41d/xfhd
+* x11-drivers/displaylink-driver
+  * DisplayLink USB Graphics Software
+  * https://www.synaptics.com/products/displaylink-graphics
+* x11-drivers/evdi
+  * Extensible Virtual Display Interface
+  * https://github.com/DisplayLink/evdi
 * x11-misc/ly
   * a TUI display manager
   * https://github.com/fairyglade/ly
