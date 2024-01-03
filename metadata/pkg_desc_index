@@ -37,8 +37,11 @@ sys-apps/jless 0.9.0: A command-line JSON viewer
 sys-apps/skiller-ctl 0.1 9999: Control the additional features of Sharkoon Skiller (Pro/Pro+) keyboards
 sys-apps/zenmonitor 1.4.2 9999: Monitoring software for AMD Zen-based CPUs
 sys-apps/zenmonitor3 2.0.0 9999: Monitoring software for AMD Zen-based CPUs with Zen 3 support
+sys-cluster/open-lens 6.5.2.366: Open Source IDE for Kubernetes
 sys-kernel/it87 9999: IT87 sensors module
 sys-kernel/zenpower 0.2.0 9999: Linux kernel driver for reading sensors of AMD Zen family CPUs
 www-servers/miniserve 0.24.0: For when you really just want to serve some files over HTTP right now!
 x11-apps/xfhd 9999: xfhd is a utility for resizing an X window to Full HD
+x11-drivers/displaylink-driver 5.8.0: DisplayLink USB Graphics Software
+x11-drivers/evdi 1.14.1: Extensible Virtual Display Interface
 x11-misc/ly 0.6.0 9999: a TUI display manager
