@@ -40,7 +40,7 @@ sys-apps/zenmonitor3 2.0.0 9999: Monitoring software for AMD Zen-based CPUs with
 sys-cluster/open-lens 6.5.2.366: Open Source IDE for Kubernetes
 sys-kernel/it87 9999: IT87 sensors module
 sys-kernel/zenpower 0.2.0 9999: Linux kernel driver for reading sensors of AMD Zen family CPUs
-www-servers/miniserve 0.24.0: For when you really just want to serve some files over HTTP right now!
+www-servers/miniserve 0.25.0: For when you really just want to serve some files over HTTP right now!
 x11-apps/xfhd 9999: xfhd is a utility for resizing an X window to Full HD
 x11-drivers/displaylink-driver 5.8.0: DisplayLink USB Graphics Software
 x11-drivers/evdi 1.14.1: Extensible Virtual Display Interface
