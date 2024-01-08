@@ -11,7 +11,7 @@ dev-util/cargo-expand 1.0.79: Subcommand to show the result of macro expansion a
 dev-util/cargo-watch 8.5.2: Watches over your Cargo project’s source
 dev-util/trunk 0.18.3: Build, bundle & ship your Rust WASM application to the web.
 dev-util/wasm-pack 0.12.1: 📦✨ your favorite rust -> wasm workflow tool!
-gnome-extra/gnome-tweaks 40.10-r1: Customize advanced GNOME options
+gnome-extra/gnome-tweaks 40.10-r1 45.0: Customize advanced GNOME options
 gui-apps/clipman 1.6.2: A simple clipboard manager for Wayland
 gui-apps/wdisplays 1.1.1: A graphical application for configuring displays in Wayland compositors
 gui-apps/wev 1.0.0: wayland event viewer
