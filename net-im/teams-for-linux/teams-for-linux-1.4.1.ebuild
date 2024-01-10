@@ -1,4 +1,4 @@
-# Copyright 2023 Gentoo Authors
+# Copyright 2023-2024 Gentoo Authors
 # Distributed under the terms of the GNU General Public License v2
 
 EAPI=8
@@ -24,10 +24,9 @@ DEPEND="
 
 "
 RDEPEND="${DEPEND}"
-BDEPEND=""
 
 src_install() {
 	dodir /opt/teams-for-linux
-	cp -R "${WORKDIR}/teams-for-linux-${PV}/." "${D}/opt/teams-for-linux/" || die "Install failed!"
+	cp -R "${WORKDIR}/teams-for-linux-${PV}/." "${ED}/opt/teams-for-linux/" || die "Install failed!"
 	dosym "../../opt/teams-for-linux/teams-for-linux" /usr/bin/teams-for-linux
 }
