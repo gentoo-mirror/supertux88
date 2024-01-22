@@ -30,6 +30,7 @@ media-plugins/obs-wlrobs 1.1 9999: An obs-studio plugin for screen capture on wl
 net-im/teams-for-linux 1.4.3: Unofficial Microsoft Teams for Linux client
 net-misc/synology-drive-client 3.4.0.15724: Desktop utility of the DSM add-on package Synology Drive Server
 net-misc/warpinator 1.8.3: Share files across the LAN
+net-misc/xh 0.20.1: Friendly and fast tool for sending HTTP requests
 sci-electronics/openhantek6022 3.3.3: DSO software for Hantek USB digital signal oscilloscopes 6022BE / BL
 sys-apps/dool 1.3.1: Versatile replacement for vmstat, iostat and ifstat (clone of dstat)
 sys-apps/jless 0.9.0: A command-line JSON viewer
