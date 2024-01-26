@@ -27,7 +27,7 @@ media-plugins/obs-backgroundremoval 1.1.10: OBS plugin for removing background
 media-plugins/obs-livesplit-one 0.3.4: A plugin for OBS Studio that allows adding LiveSplit One as a source
 media-plugins/obs-vkcapture 1.4.8: OBS Linux Vulkan/OpenGL game capture
 media-plugins/obs-wlrobs 1.1 9999: An obs-studio plugin for screen capture on wlroots based wayland compositors
-net-im/teams-for-linux 1.4.3: Unofficial Microsoft Teams for Linux client
+net-im/teams-for-linux 1.4.5: Unofficial Microsoft Teams for Linux client
 net-misc/synology-drive-client 3.4.0.15724: Desktop utility of the DSM add-on package Synology Drive Server
 net-misc/warpinator 1.8.3: Share files across the LAN
 net-misc/xh 0.20.1: Friendly and fast tool for sending HTTP requests
@@ -40,6 +40,7 @@ sys-apps/zenmonitor3 2.0.0 9999: Monitoring software for AMD Zen-based CPUs with
 sys-cluster/open-lens 6.5.2.366-r1: Open Source IDE for Kubernetes
 sys-kernel/it87 9999: IT87 sensors module
 sys-kernel/zenpower 0.2.0 9999: Linux kernel driver for reading sensors of AMD Zen family CPUs
+sys-power/sntrack 9999: Tracks the battery discharge rate during sleep
 www-servers/miniserve 0.26.0: For when you really just want to serve some files over HTTP right now!
 x11-apps/xfhd 9999: xfhd is a utility for resizing an X window to Full HD
 x11-drivers/displaylink-driver 5.8.0: DisplayLink USB Graphics Software
