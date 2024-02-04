@@ -15,7 +15,7 @@ gnome-extra/gnome-tweaks 40.10-r1 45.0: Customize advanced GNOME options
 gui-apps/clipman 1.6.2: A simple clipboard manager for Wayland
 gui-apps/wdisplays 1.1.1: A graphical application for configuring displays in Wayland compositors
 gui-apps/wev 1.0.0: wayland event viewer
-gui-apps/wl-mirror 0.16.0: A simple Wayland output mirror client
+gui-apps/wl-mirror 0.16.1: A simple Wayland output mirror client
 gui-apps/wluma 4.3.0: Automatic brightness adjustment based on screen contents and ALS
 kde-plasma/breeze 5.27.10: Breeze visual style for the Plasma desktop
 media-fonts/meslo-nerd 3.1.1: Nerd Font build of Apple's Menlo font, patched by ryanoasis
@@ -27,7 +27,7 @@ media-plugins/obs-backgroundremoval 1.1.10: OBS plugin for removing background
 media-plugins/obs-livesplit-one 0.3.4: A plugin for OBS Studio that allows adding LiveSplit One as a source
 media-plugins/obs-vkcapture 1.4.8: OBS Linux Vulkan/OpenGL game capture
 media-plugins/obs-wlrobs 1.1 9999: An obs-studio plugin for screen capture on wlroots based wayland compositors
-net-im/teams-for-linux 1.4.8: Unofficial Microsoft Teams for Linux client
+net-im/teams-for-linux 1.4.9: Unofficial Microsoft Teams for Linux client
 net-misc/synology-drive-client 3.4.0.15724: Desktop utility of the DSM add-on package Synology Drive Server
 net-misc/warpinator 1.8.3: Share files across the LAN
 net-misc/xh 0.21.0: Friendly and fast tool for sending HTTP requests
