@@ -10,7 +10,7 @@ dev-util/bacon 2.14.1: background rust compiler
 dev-util/cargo-expand 1.0.79: Subcommand to show the result of macro expansion and #[derive] expansion.
 dev-util/cargo-watch 8.5.2-r1: Watches over your Cargo project’s source
 dev-util/kopium 0.16.5: Kubernetes OPenapI UnMangler
-dev-util/trunk 0.18.7: Build, bundle & ship your Rust WASM application to the web.
+dev-util/trunk 0.18.8: Build, bundle & ship your Rust WASM application to the web.
 dev-util/wasm-pack 0.12.1: 📦✨ your favorite rust -> wasm workflow tool!
 gnome-extra/gnome-tweaks 40.10-r1 45.0: Customize advanced GNOME options
 gui-apps/clipman 1.6.2: A simple clipboard manager for Wayland
