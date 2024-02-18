@@ -60,18 +60,30 @@ The following packages are available in this overlay:
 * app-shells/zoxide
   * A smarter cd command. Supports all major shells.
   * https://github.com/ajeetdsouza/zoxide
+* dev-util/cargo-auditable
+  * Make production Rust binaries auditable
+  * https://github.com/rust-secure-code/cargo-auditable
 * dev-util/bacon
   * background rust code check
   * https://github.com/Canop/bacon
 * dev-util/cargo-expand
   * Wrapper around rustc -Zunpretty=expanded. Shows the result of macro expansion and #[derive] expansion.
   * https://github.com/dtolnay/cargo-expand
+* dev-util/cargo-geiger
+  * Detects usage of unsafe Rust in a Rust crate and its dependencies
+  * https://github.com/geiger-rs/cargo-geiger
 * dev-util/cargo-watch
   * Watches over your Cargo project's source
   * https://github.com/watchexec/cargo-watch
+* dev-util/diesel-cli
+  * Diesel CLI is a tool that aids in managing your database schema
+  * https://github.com/diesel-rs/diesel/tree/master/diesel_cli
 * dev-util/kopium
   * Kubernetes OPenapI UnMangler
   * https://github.com/kube-rs/kopium
+* dev-util/rust-audit-info
+  * Command-line tool to extract the dependency trees embedded in binaries by cargo auditable
+  * https://github.com/rust-secure-code/cargo-auditable/tree/master/rust-audit-info
 * dev-util/trunk
   * Build, bundle & ship your Rust WASM application to the web
   * https://trunkrs.dev
