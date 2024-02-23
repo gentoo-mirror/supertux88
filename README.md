@@ -90,6 +90,9 @@ The following packages are available in this overlay:
 * dev-util/wasm-pack
   * Your favorite rust -> wasm workflow tool
   * https://rustwasm.github.io/wasm-pack
+* dev-vcs/git-interactive-rebase-tool
+  * Native cross-platform full feature terminal-based sequence editor for git interactive rebase
+  * https://github.com/MitMaro/git-interactive-rebase-tool
 * gnome-extra/gnome-tweaks
   * Same as upstream, with additional `gnome-shell` USE flag
 * gui-apps/clipman
@@ -139,6 +142,9 @@ The following packages are available in this overlay:
 * media-plugins/obs-wlrobs
   * An obs-studio plugin that allows you to screen capture on wlroots based wayland compositors
   * https://hg.sr.ht/~scoopta/wlrobs
+* net-analyzer/gping
+  * Ping, but with a graph
+  * https://github.com/orf/gping
 * net-im/teams-for-linux
   * Unofficial Microsoft Teams for Linux client
   * https://github.com/IsmaelMartinez/teams-for-linux
