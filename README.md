@@ -57,9 +57,6 @@ The following packages are available in this overlay:
 * app-shells/powerlevel10k
   * A theme for Zsh. It emphasizes speed, flexibility and out-of-the-box experience
   * https://github.com/romkatv/powerlevel10k
-* app-shells/zoxide
-  * A smarter cd command. Supports all major shells.
-  * https://github.com/ajeetdsouza/zoxide
 * dev-util/cargo-auditable
   * Make production Rust binaries auditable
   * https://github.com/rust-secure-code/cargo-auditable
@@ -110,9 +107,6 @@ The following packages are available in this overlay:
 * gui-apps/wluma
   * Automatic brightness adjustment based on screen contents and ALS
   * https://github.com/maximbaz/wluma
-* gui-apps/ydotool
-  * Generic command-line automation tool (no X!)
-  * https://github.com/ReimuNotMoe/ydotool
 * kde-plasma/breeze
   * Same as upstream, with additional `kde-cli-tools` USE flag
 * media-fonts/meslo-nerd
@@ -135,7 +129,7 @@ The following packages are available in this overlay:
   * https://github.com/royshil/obs-backgroundremoval
 * media-plugins/obs-livesplit-one
   * A plugin for OBS Studio that allows adding LiveSplit One as a source
-  * https://github.com/CryZe/obs-livesplit-one
+  * https://github.com/LiveSplit/obs-livesplit-one
 * media-plugins/obs-vkcapture
   * OBS Linux Vulkan/OpenGL game capture
   * https://github.com/nowrep/obs-vkcapture
@@ -186,7 +180,7 @@ The following packages are available in this overlay:
   * https://github.com/a1wong/it87
 * sys-kernel/zenpower
   * Linux kernel driver for reading sensors of AMD Zen family CPUs
-  * https://github.com/Ta180m/zenpower3
+  * https://git.exozy.me/a/zenpower3
 * sys-power/sntrack
   * Tracks the battery discharge rate during sleep
   * https://github.com/xsmile/sntrack
