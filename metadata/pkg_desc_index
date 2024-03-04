@@ -20,7 +20,7 @@ gnome-extra/gnome-tweaks 40.10-r1 45.0: Customize advanced GNOME options
 gui-apps/clipman 1.6.2: A simple clipboard manager for Wayland
 gui-apps/wdisplays 1.1.1: A graphical application for configuring displays in Wayland compositors
 gui-apps/wev 1.0.0: wayland event viewer
-gui-apps/wl-mirror 0.16.1: A simple Wayland output mirror client
+gui-apps/wl-mirror 0.16.2: A simple Wayland output mirror client
 gui-apps/wluma 4.3.0: Automatic brightness adjustment based on screen contents and ALS
 kde-plasma/breeze 5.27.10: Breeze visual style for the Plasma desktop
 media-fonts/meslo-nerd 3.1.1: Nerd Font build of Apple's Menlo font, patched by ryanoasis
