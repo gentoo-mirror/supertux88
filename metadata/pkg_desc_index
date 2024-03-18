@@ -52,5 +52,5 @@ sys-power/sntrack 9999: Tracks the battery discharge rate during sleep
 www-servers/miniserve 0.27.1: For when you really just want to serve some files over HTTP right now!
 x11-apps/xfhd 9999: xfhd is a utility for resizing an X window to Full HD
 x11-drivers/displaylink-driver 5.8.0-r1: DisplayLink USB Graphics Software
-x11-drivers/evdi 1.14.2: Extensible Virtual Display Interface
+x11-drivers/evdi 1.14.2-r1: Extensible Virtual Display Interface
 x11-misc/ly 0.6.0 9999: a TUI display manager
