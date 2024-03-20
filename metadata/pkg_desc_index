@@ -22,6 +22,7 @@ gui-apps/wdisplays 1.1.1: A graphical application for configuring displays in Wa
 gui-apps/wev 1.0.0: wayland event viewer
 gui-apps/wl-mirror 0.16.2: A simple Wayland output mirror client
 gui-apps/wluma 4.3.0: Automatic brightness adjustment based on screen contents and ALS
+gui-libs/sway-systemd 0.4.0: Systemd integration for Sway session
 kde-plasma/breeze 5.27.10 5.27.11: Breeze visual style for the Plasma desktop
 media-fonts/meslo-nerd 3.1.1: Nerd Font build of Apple's Menlo font, patched by ryanoasis
 media-fonts/nerd-fonts-symbols 3.1.1: High number of extra glyphs from popular 'iconic fonts'
