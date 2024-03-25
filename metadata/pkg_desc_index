@@ -1,7 +1,7 @@
 app-admin/dotter 0.13.1-r1: A dotfile manager and templater written in rust
 app-containers/podman-compose 1.0.6-r1: A script to run docker-compose.yml using podman
-app-misc/google-cloud-cli 467.0.0: Google Cloud SDK
-app-misc/google-cloud-cli-gke-gcloud-auth-plugin 467.0.0: A kubectl authentication plugin for GKE
+app-misc/google-cloud-cli 469.0.0: Google Cloud CLI
+app-misc/google-cloud-cli-gke-gcloud-auth-plugin 469.0.0: A kubectl authentication plugin for GKE
 app-shells/gitstatus 1.5.4: Git status for Bash and Zsh prompt
 app-shells/powerlevel10k 1.20.0: A theme for Zsh. It emphasizes speed, flexibility and out-of-the-box experience.
 dev-util/bacon 2.15.0: background rust compiler

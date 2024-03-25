@@ -4,6 +4,7 @@
 
 app-admin/dotter:scripting - Enable scripting support with rhai helpers
 app-admin/dotter:watch - Enable watch sub-command
+app-misc/google-cloud-cli:anthoscli - Install anthoscli command
 app-shells/powerlevel10k:nerd-fonts - Install MesloLGS Nerd Font
 gnome-extra/gnome-tweaks:gnome-shell - Install gnome-base/gnome-shell tweaks
 gui-libs/sway-systemd:autostart - Include sway-xdg-autostart.target to allow delayed start from a script
