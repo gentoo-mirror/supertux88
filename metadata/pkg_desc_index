@@ -24,9 +24,9 @@ gui-apps/wl-mirror 0.16.2: A simple Wayland output mirror client
 gui-apps/wluma 4.3.0: Automatic brightness adjustment based on screen contents and ALS
 gui-libs/sway-systemd 0.4.0: Systemd integration for Sway session
 kde-plasma/breeze 5.27.10 5.27.11: Breeze visual style for the Plasma desktop
-media-fonts/meslo-nerd 3.1.1: Nerd Font build of Apple's Menlo font, patched by ryanoasis
-media-fonts/nerd-fonts-symbols 3.1.1: High number of extra glyphs from popular 'iconic fonts'
-media-fonts/terminess-nerd 3.1.1: Nerd Font build of Terminus font, patched by ryanoasis
+media-fonts/meslo-nerd 3.2.0: Nerd Font build of Apple's Menlo font, patched by ryanoasis
+media-fonts/nerd-fonts-symbols 3.2.0: High number of extra glyphs from popular 'iconic fonts'
+media-fonts/terminess-nerd 3.2.0: Nerd Font build of Terminus font, patched by ryanoasis
 media-fonts/terminus-ttf 4.49.3: A TrueType version of Terminus Font
 media-gfx/corrupter 1.0: Simple image glitcher suitable for producing nice looking lockscreens
 media-plugins/obs-backgroundremoval 1.1.13: OBS plugin for removing background
@@ -46,7 +46,7 @@ sys-apps/jless 0.9.0: A command-line JSON viewer
 sys-apps/skiller-ctl 0.1 9999: Control the additional features of Sharkoon Skiller (Pro/Pro+) keyboards
 sys-apps/zenmonitor 1.4.2 9999: Monitoring software for AMD Zen-based CPUs
 sys-apps/zenmonitor3 2.0.0 9999: Monitoring software for AMD Zen-based CPUs with Zen 3 support
-sys-cluster/kustomize-bin 5.3.0: Customization of kubernetes YAML configurations
+sys-cluster/kustomize-bin 5.4.1: Customization of kubernetes YAML configurations
 sys-cluster/open-lens 6.5.2.366-r1: Open Source IDE for Kubernetes
 sys-kernel/it87 9999: IT87 sensors module
 sys-kernel/zenpower 0.2.0 9999: Linux kernel driver for reading sensors of AMD Zen family CPUs
