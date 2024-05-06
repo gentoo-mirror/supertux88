@@ -34,7 +34,7 @@ media-plugins/obs-livesplit-one 0.3.5: A plugin for OBS Studio that allows addin
 media-plugins/obs-vkcapture 1.5.0: OBS Linux Vulkan/OpenGL game capture
 media-plugins/obs-wlrobs 1.1 9999: An obs-studio plugin for screen capture on wlroots based wayland compositors
 net-analyzer/gping 1.16.1: Ping, but with a graph.
-net-im/teams-for-linux 1.4.22: Unofficial Microsoft Teams for Linux client
+net-im/teams-for-linux 1.4.37: Unofficial Microsoft Teams for Linux client
 net-misc/synology-drive-client 3.4.0.15724: Desktop utility of the DSM add-on package Synology Drive Server
 net-misc/warpinator 1.8.3-r1: Share files across the LAN
 net-misc/xh 0.22.0: Friendly and fast tool for sending HTTP requests
