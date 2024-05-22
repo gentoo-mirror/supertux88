@@ -45,7 +45,7 @@ sys-apps/jless 0.9.0: A command-line JSON viewer
 sys-apps/skiller-ctl 0.1 9999: Control the additional features of Sharkoon Skiller (Pro/Pro+) keyboards
 sys-apps/zenmonitor 1.4.2 9999: Monitoring software for AMD Zen-based CPUs
 sys-apps/zenmonitor3 2.0.0 9999: Monitoring software for AMD Zen-based CPUs with Zen 3 support
-sys-cluster/kustomize-bin 5.4.1: Customization of kubernetes YAML configurations
+sys-cluster/kustomize-bin 5.4.2: Customization of kubernetes YAML configurations
 sys-cluster/open-lens 6.5.2.366-r1: Open Source IDE for Kubernetes
 sys-kernel/it87 9999: IT87 sensors module
 sys-kernel/zenpower 0.2.0 9999: Linux kernel driver for reading sensors of AMD Zen family CPUs
