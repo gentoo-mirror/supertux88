@@ -10,7 +10,7 @@ dev-util/cargo-expand 1.0.88: Subcommand to show the result of macro expansion a
 dev-util/cargo-geiger 0.11.7-r1: Detects usage of unsafe Rust in a Rust crate and its dependencies.
 dev-util/cargo-watch 8.5.2-r1: Watches over your Cargo project’s source
 dev-util/diesel-cli 2.1.1: Provides the CLI for the Diesel crate
-dev-util/kopium 0.19.0: Kubernetes OPenapI UnMangler
+dev-util/kopium 0.20.0: Kubernetes OPenapI UnMangler
 dev-util/leptosfmt 0.1.18: view macro formatter CLI for the Leptos web framework
 dev-util/rust-audit-info 0.5.4: Command-line tool to extract the dependency trees embedded in binaries
 dev-util/trunk 0.20.1: Build, bundle & ship your Rust WASM application to the web.
@@ -52,6 +52,6 @@ sys-kernel/zenpower 0.2.0 9999: Linux kernel driver for reading sensors of AMD Z
 sys-power/sntrack 9999: Tracks the battery discharge rate during sleep
 www-servers/miniserve 0.27.1: For when you really just want to serve some files over HTTP right now!
 x11-apps/xfhd 9999: xfhd is a utility for resizing an X window to Full HD
-x11-drivers/displaylink-driver 5.8.0-r1: DisplayLink USB Graphics Software
+x11-drivers/displaylink-driver 6.0.0: DisplayLink USB Graphics Software
 x11-drivers/evdi 1.14.4: Extensible Virtual Display Interface
 x11-misc/ly 0.6.0 9999: a TUI display manager
