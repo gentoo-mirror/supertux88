@@ -4,13 +4,14 @@ app-misc/google-cloud-cli 475.0.0: Google Cloud CLI
 app-misc/google-cloud-cli-gke-gcloud-auth-plugin 475.0.0: A kubectl authentication plugin for GKE
 app-shells/gitstatus 1.5.5: Git status for Bash and Zsh prompt
 app-shells/powerlevel10k 1.20.0: A theme for Zsh. It emphasizes speed, flexibility and out-of-the-box experience.
-dev-util/bacon 2.18.1: background rust compiler
+dev-python/grpcio 1.64.0: High-performance RPC framework (python libraries)
+dev-util/bacon 2.18.2: background rust compiler
 dev-util/cargo-auditable 0.6.4: Make production Rust binaries auditable
 dev-util/cargo-expand 1.0.88: Subcommand to show the result of macro expansion and #[derive] expansion.
 dev-util/cargo-geiger 0.11.7-r1: Detects usage of unsafe Rust in a Rust crate and its dependencies.
 dev-util/cargo-watch 8.5.2-r1: Watches over your Cargo project’s source
 dev-util/diesel-cli 2.1.1: Provides the CLI for the Diesel crate
-dev-util/kopium 0.20.0: Kubernetes OPenapI UnMangler
+dev-util/kopium 0.20.1: Kubernetes OPenapI UnMangler
 dev-util/leptosfmt 0.1.18: view macro formatter CLI for the Leptos web framework
 dev-util/rust-audit-info 0.5.4: Command-line tool to extract the dependency trees embedded in binaries
 dev-util/trunk 0.20.1: Build, bundle & ship your Rust WASM application to the web.
@@ -22,7 +23,7 @@ gui-apps/wdisplays 1.1.1: A graphical application for configuring displays in Wa
 gui-apps/wev 1.0.0: wayland event viewer
 gui-apps/wl-mirror 0.16.2: A simple Wayland output mirror client
 gui-libs/sway-systemd 0.4.0: Systemd integration for Sway session
-kde-plasma/breeze 5.27.10 5.27.11: Breeze visual style for the Plasma desktop
+kde-plasma/breeze 5.27.11: Breeze visual style for the Plasma desktop
 media-fonts/meslo-nerd 3.2.1: Nerd Font build of Apple's Menlo font, patched by ryanoasis
 media-fonts/nerd-fonts-symbols 3.2.1: High number of extra glyphs from popular 'iconic fonts'
 media-fonts/terminess-nerd 3.2.1: Nerd Font build of Terminus font, patched by ryanoasis
@@ -33,9 +34,9 @@ media-plugins/obs-livesplit-one 0.4.0: A plugin for OBS Studio that allows addin
 media-plugins/obs-vkcapture 1.5.0: OBS Linux Vulkan/OpenGL game capture
 media-plugins/obs-wlrobs 1.1 9999: An obs-studio plugin for screen capture on wlroots based wayland compositors
 net-analyzer/gping 1.16.1: Ping, but with a graph.
-net-im/teams-for-linux 1.4.37: Unofficial Microsoft Teams for Linux client
+net-im/teams-for-linux 1.5.0: Unofficial Microsoft Teams for Linux client
 net-misc/synology-drive-client 3.5.0.16084: Desktop utility of the DSM add-on package Synology Drive Server
-net-misc/warpinator 1.8.3-r1: Share files across the LAN
+net-misc/warpinator 1.8.3-r2: Share files across the LAN
 net-misc/xh 0.22.0: Friendly and fast tool for sending HTTP requests
 sci-electronics/openhantek6022 3.3.3: DSO software for Hantek USB digital signal oscilloscopes 6022BE / BL
 sec-keys/openpgp-keys-romkatv 20200204: OpenPGP keys used by Roman Perepelitsa
