@@ -7,6 +7,7 @@ app-shells/powerlevel10k 1.20.0: A theme for Zsh. It emphasizes speed, flexibili
 dev-python/grpcio 1.64.0: High-performance RPC framework (python libraries)
 dev-util/bacon 2.18.2: background rust compiler
 dev-util/cargo-auditable 0.6.4: Make production Rust binaries auditable
+dev-util/cargo-deny 0.14.24: Cargo plugin to help you manage large dependency graphs
 dev-util/cargo-expand 1.0.88: Subcommand to show the result of macro expansion and #[derive] expansion.
 dev-util/cargo-geiger 0.11.7-r1: Detects usage of unsafe Rust in a Rust crate and its dependencies.
 dev-util/cargo-watch 8.5.2-r1: Watches over your Cargo project’s source
@@ -16,7 +17,7 @@ dev-util/leptosfmt 0.1.18: view macro formatter CLI for the Leptos web framework
 dev-util/rust-audit-info 0.5.4: Command-line tool to extract the dependency trees embedded in binaries
 dev-util/trunk 0.20.2: Build, bundle & ship your Rust WASM application to the web.
 dev-util/wasm-pack 0.12.1: 📦✨ your favorite rust -> wasm workflow tool!
-dev-vcs/git-interactive-rebase-tool 2.3.0-r1: Full feature terminal based sequence editor for git interactive rebase.
+dev-vcs/git-interactive-rebase-tool 2.4.0: Full feature terminal based sequence editor for git interactive rebase.
 gnome-extra/gnome-tweaks 45.2: Customize advanced GNOME options
 gui-apps/clipman 1.6.4: A simple clipboard manager for Wayland
 gui-apps/wdisplays 1.1.1: A graphical application for configuring displays in Wayland compositors
@@ -36,7 +37,7 @@ media-plugins/obs-wlrobs 1.1 9999: An obs-studio plugin for screen capture on wl
 net-analyzer/gping 1.16.1: Ping, but with a graph.
 net-im/teams-for-linux 1.6.1: Unofficial Microsoft Teams for Linux client
 net-misc/synology-drive-client 3.5.0.16084: Desktop utility of the DSM add-on package Synology Drive Server
-net-misc/warpinator 1.8.3-r2: Share files across the LAN
+net-misc/warpinator 1.8.4: Share files across the LAN
 net-misc/xh 0.22.0: Friendly and fast tool for sending HTTP requests
 sci-electronics/openhantek6022 3.3.3: DSO software for Hantek USB digital signal oscilloscopes 6022BE / BL
 sec-keys/openpgp-keys-romkatv 20200204: OpenPGP keys used by Roman Perepelitsa
