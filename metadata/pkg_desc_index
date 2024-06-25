@@ -1,7 +1,7 @@
 app-admin/dotter 0.13.2: A dotfile manager and templater written in rust
 app-containers/podman-compose 1.1.0: A script to run docker-compose.yml using podman
-app-misc/google-cloud-cli 475.0.0: Google Cloud CLI
-app-misc/google-cloud-cli-gke-gcloud-auth-plugin 475.0.0: A kubectl authentication plugin for GKE
+app-misc/google-cloud-cli 481.0.0: Google Cloud CLI
+app-misc/google-cloud-cli-gke-gcloud-auth-plugin 481.0.0: A kubectl authentication plugin for GKE
 app-shells/gitstatus 1.5.5: Git status for Bash and Zsh prompt
 app-shells/powerlevel10k 1.20.0: A theme for Zsh. It emphasizes speed, flexibility and out-of-the-box experience.
 dev-python/grpcio 1.64.0: High-performance RPC framework (python libraries)
@@ -37,7 +37,7 @@ media-plugins/obs-wlrobs 1.1 9999: An obs-studio plugin for screen capture on wl
 net-analyzer/gping 1.16.1: Ping, but with a graph.
 net-im/teams-for-linux 1.6.1: Unofficial Microsoft Teams for Linux client
 net-misc/synology-drive-client 3.5.0.16084: Desktop utility of the DSM add-on package Synology Drive Server
-net-misc/warpinator 1.8.4: Share files across the LAN
+net-misc/warpinator 1.8.5: Share files across the LAN
 net-misc/xh 0.22.0: Friendly and fast tool for sending HTTP requests
 sci-electronics/openhantek6022 3.3.3: DSO software for Hantek USB digital signal oscilloscopes 6022BE / BL
 sec-keys/openpgp-keys-romkatv 20200204: OpenPGP keys used by Roman Perepelitsa
