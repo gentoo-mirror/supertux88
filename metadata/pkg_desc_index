@@ -1,5 +1,5 @@
 app-admin/dotter 0.13.2: A dotfile manager and templater written in rust
-app-containers/podman-compose 1.1.0: A script to run docker-compose.yml using podman
+app-containers/podman-compose 1.2.0: A script to run docker-compose.yml using podman
 app-misc/google-cloud-cli 481.0.0: Google Cloud CLI
 app-misc/google-cloud-cli-gke-gcloud-auth-plugin 481.0.0: A kubectl authentication plugin for GKE
 app-shells/gitstatus 1.5.5: Git status for Bash and Zsh prompt
@@ -16,13 +16,13 @@ dev-util/kopium 0.20.1: Kubernetes OPenapI UnMangler
 dev-util/leptosfmt 0.1.18: view macro formatter CLI for the Leptos web framework
 dev-util/rust-audit-info 0.5.4: Command-line tool to extract the dependency trees embedded in binaries
 dev-util/trunk 0.20.2: Build, bundle & ship your Rust WASM application to the web.
-dev-util/wasm-pack 0.12.1: 📦✨ your favorite rust -> wasm workflow tool!
-dev-vcs/git-interactive-rebase-tool 2.4.0: Full feature terminal based sequence editor for git interactive rebase.
+dev-util/wasm-pack 0.13.0: 📦✨ your favorite rust -> wasm workflow tool!
+dev-vcs/git-interactive-rebase-tool 2.4.1: Full feature terminal based sequence editor for git interactive rebase.
 gnome-extra/gnome-tweaks 45.2: Customize advanced GNOME options
 gui-apps/clipman 1.6.4: A simple clipboard manager for Wayland
 gui-apps/wdisplays 1.1.1: A graphical application for configuring displays in Wayland compositors
 gui-apps/wev 1.0.0: wayland event viewer
-gui-apps/wl-mirror 0.16.3: A simple Wayland output mirror client
+gui-apps/wl-mirror 0.16.4: A simple Wayland output mirror client
 gui-libs/sway-systemd 0.4.0: Systemd integration for Sway session
 kde-plasma/breeze 5.27.11: Breeze visual style for the Plasma desktop
 media-fonts/meslo-nerd 3.2.1: Nerd Font build of Apple's Menlo font, patched by ryanoasis
