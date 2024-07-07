@@ -56,4 +56,4 @@ www-servers/miniserve 0.27.1: For when you really just want to serve some files 
 x11-apps/xfhd 9999: xfhd is a utility for resizing an X window to Full HD
 x11-drivers/displaylink-driver 6.0.0: DisplayLink USB Graphics Software
 x11-drivers/evdi 1.14.4: Extensible Virtual Display Interface
-x11-misc/ly 0.6.0: a TUI display manager
+x11-misc/ly 0.6.0 1.0.0: a TUI display manager
