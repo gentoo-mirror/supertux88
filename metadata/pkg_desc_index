@@ -4,6 +4,7 @@ app-misc/google-cloud-cli 481.0.0: Google Cloud CLI
 app-misc/google-cloud-cli-gke-gcloud-auth-plugin 481.0.0: A kubectl authentication plugin for GKE
 app-shells/gitstatus 1.5.5: Git status for Bash and Zsh prompt
 app-shells/powerlevel10k 1.20.0: A theme for Zsh. It emphasizes speed, flexibility and out-of-the-box experience.
+dev-build/just 1.32.0: 🤖 Just a command runner
 dev-python/grpcio 1.64.0: High-performance RPC framework (python libraries)
 dev-util/bacon 2.18.2: background rust compiler
 dev-util/cargo-auditable 0.6.4: Make production Rust binaries auditable
@@ -22,7 +23,7 @@ gnome-extra/gnome-tweaks 45.2: Customize advanced GNOME options
 gui-apps/clipman 1.6.4: A simple clipboard manager for Wayland
 gui-apps/wdisplays 1.1.1: A graphical application for configuring displays in Wayland compositors
 gui-apps/wev 1.0.0: wayland event viewer
-gui-apps/wl-mirror 0.16.4: A simple Wayland output mirror client
+gui-apps/wl-mirror 0.16.5: A simple Wayland output mirror client
 gui-libs/sway-systemd 0.4.0: Systemd integration for Sway session
 kde-plasma/breeze 5.27.11: Breeze visual style for the Plasma desktop
 media-fonts/meslo-nerd 3.2.1: Nerd Font build of Apple's Menlo font, patched by ryanoasis
@@ -32,10 +33,10 @@ media-fonts/terminus-ttf 4.49.3: A TrueType version of Terminus Font
 media-gfx/corrupter 1.0: Simple image glitcher suitable for producing nice looking lockscreens
 media-plugins/obs-backgroundremoval 1.1.13: OBS plugin for removing background
 media-plugins/obs-livesplit-one 0.4.0: A plugin for OBS Studio that allows adding LiveSplit One as a source
-media-plugins/obs-vkcapture 1.5.0: OBS Linux Vulkan/OpenGL game capture
+media-plugins/obs-vkcapture 1.5.1: OBS Linux Vulkan/OpenGL game capture
 media-plugins/obs-wlrobs 1.1 9999: An obs-studio plugin for screen capture on wlroots based wayland compositors
 net-analyzer/gping 1.16.1: Ping, but with a graph.
-net-im/teams-for-linux 1.7.5: Unofficial Microsoft Teams for Linux client
+net-im/teams-for-linux 1.8.1: Unofficial Microsoft Teams for Linux client
 net-misc/synology-drive-client 3.5.0.16084: Desktop utility of the DSM add-on package Synology Drive Server
 net-misc/warpinator 1.8.5: Share files across the LAN
 net-misc/xh 0.22.2: Friendly and fast tool for sending HTTP requests
@@ -47,7 +48,7 @@ sys-apps/jless 0.9.0: A command-line JSON viewer
 sys-apps/skiller-ctl 0.1 9999: Control the additional features of Sharkoon Skiller (Pro/Pro+) keyboards
 sys-apps/zenmonitor 1.4.2 9999: Monitoring software for AMD Zen-based CPUs
 sys-apps/zenmonitor3 2.0.0 9999: Monitoring software for AMD Zen-based CPUs with Zen 3 support
-sys-cluster/kustomize-bin 5.4.2: Customization of kubernetes YAML configurations
+sys-cluster/kustomize-bin 5.4.3: Customization of kubernetes YAML configurations
 sys-cluster/open-lens 6.5.2.366-r1: Open Source IDE for Kubernetes
 sys-kernel/it87 9999: IT87 sensors module
 sys-kernel/zenpower 0.2.0 9999: Linux kernel driver for reading sensors of AMD Zen family CPUs
