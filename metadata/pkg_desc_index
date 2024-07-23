@@ -35,10 +35,10 @@ media-plugins/obs-backgroundremoval 1.1.13: OBS plugin for removing background
 media-plugins/obs-livesplit-one 0.4.0: A plugin for OBS Studio that allows adding LiveSplit One as a source
 media-plugins/obs-vkcapture 1.5.1: OBS Linux Vulkan/OpenGL game capture
 media-plugins/obs-wlrobs 1.1 9999: An obs-studio plugin for screen capture on wlroots based wayland compositors
-net-analyzer/gping 1.16.1: Ping, but with a graph.
+net-analyzer/gping 1.17.3: Ping, but with a graph.
 net-im/teams-for-linux 1.8.1: Unofficial Microsoft Teams for Linux client
 net-misc/synology-drive-client 3.5.0.16084: Desktop utility of the DSM add-on package Synology Drive Server
-net-misc/warpinator 1.8.5: Share files across the LAN
+net-misc/warpinator 1.8.6: Share files across the LAN
 net-misc/xh 0.22.2: Friendly and fast tool for sending HTTP requests
 sci-electronics/openhantek6022 3.3.3: DSO software for Hantek USB digital signal oscilloscopes 6022BE / BL
 sec-keys/openpgp-keys-romkatv 20200204: OpenPGP keys used by Roman Perepelitsa
