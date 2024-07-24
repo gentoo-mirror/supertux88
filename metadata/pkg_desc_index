@@ -12,9 +12,9 @@ dev-util/cargo-deny 0.14.24: Cargo plugin to help you manage large dependency gr
 dev-util/cargo-expand 1.0.88: Subcommand to show the result of macro expansion and #[derive] expansion.
 dev-util/cargo-geiger 0.11.7-r1: Detects usage of unsafe Rust in a Rust crate and its dependencies.
 dev-util/cargo-watch 8.5.2-r1: Watches over your Cargo project’s source
-dev-util/diesel-cli 2.1.1: Provides the CLI for the Diesel crate
+dev-util/diesel-cli 2.2.2: Provides the CLI for the Diesel crate
 dev-util/kopium 0.20.1: Kubernetes OPenapI UnMangler
-dev-util/leptosfmt 0.1.18: view macro formatter CLI for the Leptos web framework
+dev-util/leptosfmt 0.1.20: view macro formatter CLI for the Leptos web framework
 dev-util/rust-audit-info 0.5.4: Command-line tool to extract the dependency trees embedded in binaries
 dev-util/trunk 0.20.2: Build, bundle & ship your Rust WASM application to the web.
 dev-util/wasm-pack 0.13.0: 📦✨ your favorite rust -> wasm workflow tool!
@@ -32,7 +32,7 @@ media-fonts/terminess-nerd 3.2.1: Nerd Font build of Terminus font, patched by r
 media-fonts/terminus-ttf 4.49.3: A TrueType version of Terminus Font
 media-gfx/corrupter 1.0: Simple image glitcher suitable for producing nice looking lockscreens
 media-plugins/obs-backgroundremoval 1.1.13: OBS plugin for removing background
-media-plugins/obs-livesplit-one 0.4.0: A plugin for OBS Studio that allows adding LiveSplit One as a source
+media-plugins/obs-livesplit-one 0.4.1: A plugin for OBS Studio that allows adding LiveSplit One as a source
 media-plugins/obs-vkcapture 1.5.1: OBS Linux Vulkan/OpenGL game capture
 media-plugins/obs-wlrobs 1.1 9999: An obs-studio plugin for screen capture on wlroots based wayland compositors
 net-analyzer/gping 1.17.3: Ping, but with a graph.
