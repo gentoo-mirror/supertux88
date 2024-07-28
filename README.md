@@ -172,6 +172,9 @@ The following packages are available in this overlay:
 * sys-apps/dool
   * Versatile replacement for vmstat, iostat and ifstat (clone of dstat)
   * https://github.com/scottchiefbaker/dool
+* sys-apps/fw-ectool
+  * ectool for the Framework laptop
+  * https://gitlab.howett.net/DHowett/ectool
 * sys-apps/hexyl
   * A command-line hex viewer
   * https://github.com/sharkdp/hexyl
@@ -181,9 +184,6 @@ The following packages are available in this overlay:
 * sys-apps/skiller-ctl
   * Control the additional features (e.g., LEDs) of Sharkoon Skiller (Pro/Pro+) keyboards
   * https://github.com/anyc/skiller-ctl
-* sys-apps/zenmonitor
-  * Monitoring software for AMD Zen-based CPUs
-  * https://github.com/ocerman/zenmonitor
 * sys-apps/zenmonitor3
   * Monitoring software for AMD Zen-based CPUs with Zen 3 support
   * https://github.com/Ta180m/zenmonitor3
@@ -196,9 +196,12 @@ The following packages are available in this overlay:
 * sys-kernel/it87
   * IT87 sensors module
   * https://github.com/a1wong/it87
-* sys-kernel/zenpower
+* sys-kernel/zenpower3
   * Linux kernel driver for reading sensors of AMD Zen family CPUs
   * https://git.exozy.me/a/zenpower3
+* sys-power/amd_s2idle
+  * S0i3/s2idle analysis script for AMD systems
+  * https://gitlab.freedesktop.org/drm/amd/-/blob/master/scripts/amd_s2idle.py
 * sys-power/sntrack
   * Tracks the battery discharge rate during sleep
   * https://github.com/xsmile/sntrack
