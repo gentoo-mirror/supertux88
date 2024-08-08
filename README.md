@@ -45,9 +45,18 @@ The following packages are available in this overlay:
 * app-admin/dotter
   * A dotfile manager and templater written in rust
   * https://github.com/SuperCuber/dotter
+* app-arch/nfpm
+  * nFPM is Not FPM - a simple deb, rpm, apk, ipk, and arch linux packager written in Go
+  * https://nfpm.goreleaser.com
 * app-containers/podman-compose
   * A script to run docker-compose.yml using podman
   * https://github.com/containers/podman-compose
+* app-laptop/fw-ectool
+  * ectool for the Framework laptop
+  * https://gitlab.howett.net/DHowett/ectool
+* app-laptop/fw-fanctrl
+  * A simple systemd service to better control Framework Laptop's fan(s)
+  * https://github.com/TamtamHero/fw-fanctrl
 * app-misc/google-cloud-cli
   * Google Cloud SDK
   * https://cloud.google.com/sdk
@@ -178,9 +187,6 @@ The following packages are available in this overlay:
 * sys-apps/dool
   * Versatile replacement for vmstat, iostat and ifstat (clone of dstat)
   * https://github.com/scottchiefbaker/dool
-* sys-apps/fw-ectool
-  * ectool for the Framework laptop
-  * https://gitlab.howett.net/DHowett/ectool
 * sys-apps/hexyl
   * A command-line hex viewer
   * https://github.com/sharkdp/hexyl
