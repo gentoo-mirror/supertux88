@@ -15,7 +15,7 @@ dev-util/cargo-deny 0.14.24: Cargo plugin to help you manage large dependency gr
 dev-util/cargo-expand 1.0.89: Subcommand to show the result of macro expansion and #[derive] expansion.
 dev-util/cargo-geiger 0.11.7-r1: Detects usage of unsafe Rust in a Rust crate and its dependencies.
 dev-util/cargo-watch 8.5.2-r1: Watches over your Cargo project’s source
-dev-util/diesel-cli 2.2.2: Provides the CLI for the Diesel crate
+dev-util/diesel-cli 2.2.3: Provides the CLI for the Diesel crate
 dev-util/kopium 0.20.1: Kubernetes OPenapI UnMangler
 dev-util/leptosfmt 0.1.20: view macro formatter CLI for the Leptos web framework
 dev-util/rust-audit-info 0.5.4: Command-line tool to extract the dependency trees embedded in binaries
