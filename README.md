@@ -63,6 +63,12 @@ The following packages are available in this overlay:
 * app-misc/google-cloud-cli-gke-gcloud-auth-plugin
   * A google-cloud-sdk component that provides a kubectl authentication plugin for GKE
   * https://cloud.google.com/blog/products/containers-kubernetes/kubectl-auth-changes-in-gke
+* app-misc/htmlq
+  * Like jq, but for HTML
+  * https://github.com/mgdm/htmlq
+* app-misc/spacer
+  * CLI tool to insert spacers when command output stops
+  * https://github.com/samwho/spacer
 * app-shells/gitstatus
   * Git status for Bash and Zsh prompt
   * https://github.com/romkatv/gitstatus
@@ -105,6 +111,9 @@ The following packages are available in this overlay:
 * dev-util/rust-audit-info
   * Command-line tool to extract the dependency trees embedded in binaries by cargo auditable
   * https://github.com/rust-secure-code/cargo-auditable/tree/master/rust-audit-info
+* dev-util/tailspin
+  * A log file highlighter
+  * https://github.com/bensadeh/tailspin
 * dev-util/trunk
   * Build, bundle & ship your Rust WASM application to the web
   * https://trunkrs.dev
