@@ -9,7 +9,7 @@ app-misc/htmlq 0.4.0: Like jq, but for HTML.
 app-misc/spacer 0.3.0: A CLI utility for adding spacers when command output stops
 app-shells/gitstatus 1.5.5: Git status for Bash and Zsh prompt
 app-shells/powerlevel10k 1.20.0: A theme for Zsh. It emphasizes speed, flexibility and out-of-the-box experience.
-dev-build/just 1.34.0: 🤖 Just a command runner
+dev-build/just 1.35.0: 🤖 Just a command runner
 dev-python/grpcio 1.66.1: High-performance RPC framework (python libraries)
 dev-util/bacon 2.20.0: background rust compiler
 dev-util/cargo-auditable 0.6.4: Make production Rust binaries auditable
@@ -17,7 +17,7 @@ dev-util/cargo-deny 0.14.24: Cargo plugin to help you manage large dependency gr
 dev-util/cargo-expand 1.0.90: Subcommand to show the result of macro expansion and #[derive] expansion.
 dev-util/cargo-geiger 0.11.7-r1: Detects usage of unsafe Rust in a Rust crate and its dependencies.
 dev-util/cargo-watch 8.5.2-r1: Watches over your Cargo project’s source
-dev-util/diesel-cli 2.2.3: Provides the CLI for the Diesel crate
+dev-util/diesel-cli 2.2.4: Provides the CLI for the Diesel crate
 dev-util/kopium 0.20.1: Kubernetes OPenapI UnMangler
 dev-util/leptosfmt 0.1.20: view macro formatter CLI for the Leptos web framework
 dev-util/rust-audit-info 0.5.4: Command-line tool to extract the dependency trees embedded in binaries
@@ -43,7 +43,7 @@ media-plugins/obs-vkcapture 1.5.1: OBS Linux Vulkan/OpenGL game capture
 media-plugins/obs-wlrobs 1.1 9999: An obs-studio plugin for screen capture on wlroots based wayland compositors
 net-analyzer/gping 1.17.3: Ping, but with a graph.
 net-im/teams-for-linux 1.8.1: Unofficial Microsoft Teams for Linux client
-net-misc/synology-drive-client 3.5.0.16084: Desktop utility of the DSM add-on package Synology Drive Server
+net-misc/synology-drive-client 3.5.1.16101: Desktop utility of the DSM add-on package Synology Drive Server
 net-misc/warpinator 1.8.6: Share files across the LAN
 net-misc/xh 0.22.2: Friendly and fast tool for sending HTTP requests
 sci-electronics/openhantek6022 3.3.3: DSO software for Hantek USB digital signal oscilloscopes 6022BE / BL
