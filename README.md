@@ -57,6 +57,9 @@ The following packages are available in this overlay:
 * app-laptop/fw-fanctrl
   * A simple systemd service to better control Framework Laptop's fan(s)
   * https://github.com/TamtamHero/fw-fanctrl
+* app-misc/csvlens
+  * Command line csv viewer
+  * https://github.com/YS-L/csvlens
 * app-misc/google-cloud-cli
   * Google Cloud SDK
   * https://cloud.google.com/sdk
@@ -172,6 +175,9 @@ The following packages are available in this overlay:
 * media-plugins/obs-wlrobs
   * An obs-studio plugin that allows you to screen capture on wlroots based wayland compositors
   * https://hg.sr.ht/~scoopta/wlrobs
+* net-analyzer/bandwhich
+  * Terminal bandwidth utilization tool
+  * https://github.com/imsnif/bandwhich
 * net-analyzer/gping
   * Ping, but with a graph
   * https://github.com/orf/gping
@@ -202,6 +208,9 @@ The following packages are available in this overlay:
 * sys-apps/jless
   * A command-line JSON viewer designed for reading, exploring, and searching through JSON data
   * https://jless.io
+* sys-apps/sd
+  * Intuitive find & replace CLI (sed alternative)
+  * https://github.com/chmln/sd
 * sys-apps/skiller-ctl
   * Control the additional features (e.g., LEDs) of Sharkoon Skiller (Pro/Pro+) keyboards
   * https://github.com/anyc/skiller-ctl
