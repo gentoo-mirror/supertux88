@@ -9,7 +9,6 @@ app-shells/powerlevel10k:nerd-fonts - Install MesloLGS Nerd Font
 gnome-extra/gnome-tweaks:gnome-shell - Install gnome-base/gnome-shell tweaks
 gui-libs/sway-systemd:autostart - Include sway-xdg-autostart.target to allow delayed start from a script
 gui-libs/sway-systemd:locale1 - Read the system-wide input configuration from systemd
-kde-plasma/breeze:kde-cli-tools - Install kde-plasma/kde-cli-tools
 media-fonts/meslo-nerd:lgl - Install large line gap variant
 media-fonts/meslo-nerd:lgm - Install medium line gap variant
 media-fonts/meslo-nerd:lgs - Install small line gap variant

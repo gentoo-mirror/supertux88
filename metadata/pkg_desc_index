@@ -4,8 +4,8 @@ app-containers/podman-compose 1.2.0: A script to run docker-compose.yml using po
 app-laptop/fw-ectool 9999: ectool for the Framework laptop
 app-laptop/fw-fanctrl 9999: A simple systemd service to better control Framework Laptop's fan(s)
 app-misc/csvlens 0.10.1: Command line csv viewer
-app-misc/google-cloud-cli 488.0.0: Google Cloud CLI
-app-misc/google-cloud-cli-gke-gcloud-auth-plugin 488.0.0: A kubectl authentication plugin for GKE
+app-misc/google-cloud-cli 493.0.0: Google Cloud CLI
+app-misc/google-cloud-cli-gke-gcloud-auth-plugin 493.0.0: A kubectl authentication plugin for GKE
 app-misc/htmlq 0.4.0: Like jq, but for HTML.
 app-misc/spacer 0.3.0: A CLI utility for adding spacers when command output stops
 app-shells/gitstatus 1.5.5: Git status for Bash and Zsh prompt
@@ -32,7 +32,6 @@ gui-apps/wdisplays 1.1.1: A graphical application for configuring displays in Wa
 gui-apps/wev 1.0.0: wayland event viewer
 gui-apps/wl-mirror 0.16.5: A simple Wayland output mirror client
 gui-libs/sway-systemd 0.4.0: Systemd integration for Sway session
-kde-plasma/breeze 5.27.11 6.1.4: Breeze visual style for the Plasma desktop
 media-fonts/meslo-nerd 3.2.1: Nerd Font build of Apple's Menlo font, patched by ryanoasis
 media-fonts/nerd-fonts-symbols 3.2.1: High number of extra glyphs from popular 'iconic fonts'
 media-fonts/terminess-nerd 3.2.1: Nerd Font build of Terminus font, patched by ryanoasis
