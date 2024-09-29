@@ -43,7 +43,7 @@ media-plugins/obs-vkcapture 1.5.1: OBS Linux Vulkan/OpenGL game capture
 media-plugins/obs-wlrobs 1.1 9999: An obs-studio plugin for screen capture on wlroots based wayland compositors
 net-analyzer/bandwhich 0.23.0: Terminal bandwidth utilization tool
 net-analyzer/gping 1.17.3: Ping, but with a graph.
-net-im/teams-for-linux 1.10.2: Unofficial Microsoft Teams for Linux client
+net-im/teams-for-linux 1.11.0: Unofficial Microsoft Teams for Linux client
 net-misc/synology-drive-client 3.5.1.16101: Desktop utility of the DSM add-on package Synology Drive Server
 net-misc/warpinator 1.8.6: Share files across the LAN
 net-misc/xh 0.22.2: Friendly and fast tool for sending HTTP requests
@@ -65,5 +65,5 @@ sys-power/sntrack 9999: Tracks the battery discharge rate during sleep
 www-servers/miniserve 0.28.0: For when you really just want to serve some files over HTTP right now!
 x11-apps/xfhd 9999: xfhd is a utility for resizing an X window to Full HD
 x11-drivers/displaylink-driver 6.0.0: DisplayLink USB Graphics Software
-x11-drivers/evdi 1.14.6: Extensible Virtual Display Interface
+x11-drivers/evdi 1.14.7: Extensible Virtual Display Interface
 x11-misc/ly 1.0.2-r1: a TUI display manager
