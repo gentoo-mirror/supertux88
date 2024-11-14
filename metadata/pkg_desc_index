@@ -12,7 +12,7 @@ app-shells/gitstatus 1.5.5: Git status for Bash and Zsh prompt
 app-shells/powerlevel10k 1.20.0: A theme for Zsh. It emphasizes speed, flexibility and out-of-the-box experience.
 dev-build/just 1.36.0-r1: 🤖 Just a command runner
 dev-util/bacon 3.2.0: background rust compiler
-dev-util/cargo-auditable 0.6.4: Make production Rust binaries auditable
+dev-util/cargo-auditable 0.6.5: Make production Rust binaries auditable
 dev-util/cargo-deny 0.16.1: Cargo plugin to help you manage large dependency graphs
 dev-util/cargo-expand 1.0.95: Subcommand to show the result of macro expansion and #[derive] expansion.
 dev-util/cargo-geiger 0.11.7-r1: Detects usage of unsafe Rust in a Rust crate and its dependencies.
