@@ -31,9 +31,9 @@ gui-apps/wdisplays 1.1.1: A graphical application for configuring displays in Wa
 gui-apps/wev 1.0.0: wayland event viewer
 gui-apps/wl-mirror 0.17.0: A simple Wayland output mirror client
 gui-libs/sway-systemd 0.4.0: Systemd integration for Sway session
-media-fonts/meslo-nerd 3.2.1: Nerd Font build of Apple's Menlo font, patched by ryanoasis
-media-fonts/nerd-fonts-symbols 3.2.1: High number of extra glyphs from popular 'iconic fonts'
-media-fonts/terminess-nerd 3.2.1: Nerd Font build of Terminus font, patched by ryanoasis
+media-fonts/meslo-nerd 3.3.0: Nerd Font build of Apple's Menlo font, patched by ryanoasis
+media-fonts/nerd-fonts-symbols 3.3.0: High number of extra glyphs from popular 'iconic fonts'
+media-fonts/terminess-nerd 3.3.0: Nerd Font build of Terminus font, patched by ryanoasis
 media-fonts/terminus-ttf 4.49.3: A TrueType version of Terminus Font
 media-gfx/corrupter 1.0: Simple image glitcher suitable for producing nice looking lockscreens
 media-plugins/obs-backgroundremoval 1.1.13: OBS plugin for removing background
