@@ -10,14 +10,14 @@ app-misc/htmlq 0.4.0: Like jq, but for HTML.
 app-misc/spacer 0.3.0: A CLI utility for adding spacers when command output stops
 app-shells/gitstatus 1.5.5: Git status for Bash and Zsh prompt
 app-shells/powerlevel10k 1.20.0: A theme for Zsh. It emphasizes speed, flexibility and out-of-the-box experience.
-dev-build/just 1.36.0-r1: 🤖 Just a command runner
+dev-build/just 1.37.0: 🤖 Just a command runner
 dev-util/bacon 3.3.0: background rust compiler
-dev-util/cargo-auditable 0.6.5: Make production Rust binaries auditable
+dev-util/cargo-auditable 0.6.6: Make production Rust binaries auditable
 dev-util/cargo-deny 0.16.2: Cargo plugin to help you manage large dependency graphs
 dev-util/cargo-expand 1.0.95: Subcommand to show the result of macro expansion and #[derive] expansion.
 dev-util/cargo-geiger 0.11.7-r1: Detects usage of unsafe Rust in a Rust crate and its dependencies.
 dev-util/cargo-watch 8.5.3-r1: Watches over your Cargo project’s source
-dev-util/diesel-cli 2.2.4-r1: Provides the CLI for the Diesel crate
+dev-util/diesel-cli 2.2.5: Provides the CLI for the Diesel crate
 dev-util/kopium 0.21.1: Kubernetes OPenapI UnMangler
 dev-util/leptosfmt 0.1.32: view macro formatter CLI for the Leptos web framework
 dev-util/rust-audit-info 0.5.4: Command-line tool to extract the dependency trees embedded in binaries
@@ -32,7 +32,6 @@ gui-apps/wev 1.0.0: wayland event viewer
 gui-apps/wl-mirror 0.17.0: A simple Wayland output mirror client
 gui-libs/sway-systemd 0.4.0: Systemd integration for Sway session
 media-fonts/meslo-nerd 3.3.0: Nerd Font build of Apple's Menlo font, patched by ryanoasis
-media-fonts/nerd-fonts-symbols 3.3.0: High number of extra glyphs from popular 'iconic fonts'
 media-fonts/terminess-nerd 3.3.0: Nerd Font build of Terminus font, patched by ryanoasis
 media-fonts/terminus-ttf 4.49.3: A TrueType version of Terminus Font
 media-gfx/corrupter 1.0: Simple image glitcher suitable for producing nice looking lockscreens

@@ -14,8 +14,6 @@ media-fonts/meslo-nerd:lgm - Install medium line gap variant
 media-fonts/meslo-nerd:lgs - Install small line gap variant
 media-fonts/meslo-nerd:mono - Install with monospaced Nerd Font glyphs
 media-fonts/meslo-nerd:wide - Install with wide Nerd Font glyphs
-media-fonts/nerd-fonts-symbols:mono - Install with monospaced Nerd Font glyphs
-media-fonts/nerd-fonts-symbols:wide - Install with wide Nerd Font glyphs
 media-fonts/terminess-nerd:mono - Install with monospaced Nerd Font glyphs
 media-fonts/terminess-nerd:wide - Install with wide Nerd Font glyphs
 media-plugins/obs-livesplit-one:auto-splitting - Enable auto-splitting feature
