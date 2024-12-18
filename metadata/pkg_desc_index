@@ -22,7 +22,7 @@ dev-util/kopium 0.21.1-r1: Kubernetes OPenapI UnMangler
 dev-util/leptosfmt 0.1.32: view macro formatter CLI for the Leptos web framework
 dev-util/rust-audit-info 0.5.4: Command-line tool to extract the dependency trees embedded in binaries
 dev-util/tailspin 4.0.0-r1: A log file highlighter
-dev-util/trunk 0.21.4: Build, bundle & ship your Rust WASM application to the web.
+dev-util/trunk 0.21.5: Build, bundle & ship your Rust WASM application to the web.
 dev-util/wasm-pack 0.13.1: 📦✨ your favorite rust -> wasm workflow tool!
 dev-vcs/git-interactive-rebase-tool 2.4.1: Full feature terminal based sequence editor for git interactive rebase.
 gnome-extra/gnome-tweaks 45.2: Customize advanced GNOME options
