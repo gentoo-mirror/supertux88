@@ -4,8 +4,8 @@ app-containers/podman-compose 1.2.0: A script to run docker-compose.yml using po
 app-laptop/fw-ectool 9999: ectool for the Framework laptop
 app-laptop/fw-fanctrl 9999: A simple systemd service to better control Framework Laptop's fan(s)
 app-misc/csvlens 0.11.0: Command line csv viewer
-app-misc/google-cloud-cli 501.0.0: Google Cloud CLI
-app-misc/google-cloud-cli-gke-gcloud-auth-plugin 501.0.0: A kubectl authentication plugin for GKE
+app-misc/google-cloud-cli 504.0.0: Google Cloud CLI
+app-misc/google-cloud-cli-gke-gcloud-auth-plugin 504.0.0: A kubectl authentication plugin for GKE
 app-misc/htmlq 0.4.0: Like jq, but for HTML.
 app-misc/spacer 0.3.0: A CLI utility for adding spacers when command output stops
 app-shells/gitstatus 1.5.5: Git status for Bash and Zsh prompt
@@ -41,7 +41,7 @@ media-plugins/obs-vkcapture 1.5.1: OBS Linux Vulkan/OpenGL game capture
 media-plugins/obs-wlrobs 1.1 9999: An obs-studio plugin for screen capture on wlroots based wayland compositors
 net-analyzer/bandwhich 0.23.1-r1: Terminal bandwidth utilization tool
 net-analyzer/gping 1.18.0: Ping, but with a graph.
-net-im/teams-for-linux 1.11.5: Unofficial Microsoft Teams for Linux client
+net-im/teams-for-linux 1.12.5: Unofficial Microsoft Teams for Linux client
 net-misc/synology-drive-client 3.5.1.16102: Desktop utility of the DSM add-on package Synology Drive Server
 net-misc/warpinator 1.8.7: Share files across the LAN
 net-misc/xh 0.23.0-r1: Friendly and fast tool for sending HTTP requests
