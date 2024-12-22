@@ -25,7 +25,7 @@ dev-util/tailspin 4.0.0-r1: A log file highlighter
 dev-util/trunk 0.21.5: Build, bundle & ship your Rust WASM application to the web.
 dev-util/wasm-pack 0.13.1: 📦✨ your favorite rust -> wasm workflow tool!
 dev-vcs/git-interactive-rebase-tool 2.4.1: Full feature terminal based sequence editor for git interactive rebase.
-gnome-extra/gnome-tweaks 45.2: Customize advanced GNOME options
+gnome-extra/gnome-tweaks 45.2 46.1-r1: Customize advanced GNOME options
 gui-apps/clipman 1.6.4: A simple clipboard manager for Wayland
 gui-apps/wdisplays 1.1.1: A graphical application for configuring displays in Wayland compositors
 gui-apps/wev 1.0.0: wayland event viewer
