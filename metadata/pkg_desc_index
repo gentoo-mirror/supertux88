@@ -14,7 +14,7 @@ dev-build/just 1.38.0: 🤖 Just a command runner
 dev-util/bacon 3.7.0: background rust compiler
 dev-util/cargo-auditable 0.6.6: Make production Rust binaries auditable
 dev-util/cargo-deny 0.16.3: Cargo plugin to help you manage large dependency graphs
-dev-util/cargo-expand 1.0.96: Subcommand to show the result of macro expansion and #[derive] expansion.
+dev-util/cargo-expand 1.0.97: Subcommand to show the result of macro expansion and #[derive] expansion.
 dev-util/cargo-geiger 0.11.7-r1: Detects usage of unsafe Rust in a Rust crate and its dependencies.
 dev-util/cargo-watch 8.5.3-r1: Watches over your Cargo project’s source
 dev-util/diesel-cli 2.2.6: Provides the CLI for the Diesel crate
