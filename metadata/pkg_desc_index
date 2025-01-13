@@ -40,6 +40,8 @@ media-plugins/obs-backgroundremoval 1.1.13: OBS plugin for removing background
 media-plugins/obs-livesplit-one 0.4.1-r1: A plugin for OBS Studio that allows adding LiveSplit One as a source
 media-plugins/obs-vkcapture 1.5.1: OBS Linux Vulkan/OpenGL game capture
 media-plugins/obs-wlrobs 1.1 9999: An obs-studio plugin for screen capture on wlroots based wayland compositors
+media-sound/pwvucontrol 0.4.7: Pipewire Volume Control
+media-video/libwireplumber-compat 0.4.17: Compatibility version 4.x of libwireplumber - client library
 net-analyzer/bandwhich 0.23.1-r1: Terminal bandwidth utilization tool
 net-analyzer/gping 1.19.0: Ping, but with a graph.
 net-im/teams-for-linux 1.12.5: Unofficial Microsoft Teams for Linux client
