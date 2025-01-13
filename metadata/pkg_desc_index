@@ -44,6 +44,7 @@ media-sound/pwvucontrol 0.4.7: Pipewire Volume Control
 media-video/libwireplumber-compat 0.4.17: Compatibility version 4.x of libwireplumber - client library
 net-analyzer/bandwhich 0.23.1-r1: Terminal bandwidth utilization tool
 net-analyzer/gping 1.19.0: Ping, but with a graph.
+net-analyzer/subfinder 2.6.7: Fast passive subdomain enumeration tool
 net-im/teams-for-linux 1.12.5: Unofficial Microsoft Teams for Linux client
 net-misc/synology-drive-client 3.5.1.16102: Desktop utility of the DSM add-on package Synology Drive Server
 net-misc/warpinator 1.8.8: Share files across the LAN
