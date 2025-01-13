@@ -177,6 +177,12 @@ The following packages are available in this overlay:
 * media-plugins/obs-wlrobs
   * An obs-studio plugin that allows you to screen capture on wlroots based wayland compositors
   * https://hg.sr.ht/~scoopta/wlrobs
+* media-sound/pwvucontrol
+  * Pipewire Volume Control
+  * https://github.com/saivert/pwvucontrol
+* media-video/libwireplumber-compat
+  * Compatibility version 4.x of libwireplumber
+  * Dependency for pwvucontrol (wireplumber.rs)
 * net-analyzer/bandwhich
   * Terminal bandwidth utilization tool
   * https://github.com/imsnif/bandwhich
