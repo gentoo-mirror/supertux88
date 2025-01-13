@@ -7,6 +7,7 @@ app-misc/csvlens 0.11.0: Command line csv viewer
 app-misc/google-cloud-cli 504.0.0: Google Cloud CLI
 app-misc/google-cloud-cli-gke-gcloud-auth-plugin 504.0.0: A kubectl authentication plugin for GKE
 app-misc/htmlq 0.4.0: Like jq, but for HTML.
+app-misc/sl-patched 3.03: SL (Steam Locomotive); old patched long version
 app-misc/spacer 0.3.0: A CLI utility for adding spacers when command output stops
 app-shells/gitstatus 1.5.5: Git status for Bash and Zsh prompt
 app-shells/powerlevel10k 1.20.0: A theme for Zsh. It emphasizes speed, flexibility and out-of-the-box experience.
@@ -14,7 +15,7 @@ dev-build/just 1.38.0: 🤖 Just a command runner
 dev-util/bacon 3.7.0: background rust compiler
 dev-util/cargo-auditable 0.6.6: Make production Rust binaries auditable
 dev-util/cargo-deny 0.16.3: Cargo plugin to help you manage large dependency graphs
-dev-util/cargo-expand 1.0.98: Subcommand to show the result of macro expansion and #[derive] expansion.
+dev-util/cargo-expand 1.0.100: Subcommand to show the result of macro expansion and #[derive] expansion.
 dev-util/cargo-geiger 0.11.7-r1: Detects usage of unsafe Rust in a Rust crate and its dependencies.
 dev-util/cargo-watch 8.5.3-r1: Watches over your Cargo project’s source
 dev-util/diesel-cli 2.2.6: Provides the CLI for the Diesel crate
