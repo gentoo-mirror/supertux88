@@ -14,7 +14,7 @@ app-shells/powerlevel10k 1.20.0: A theme for Zsh. It emphasizes speed, flexibili
 dev-build/just 1.38.0: 🤖 Just a command runner
 dev-util/bacon 3.8.0: background rust compiler
 dev-util/cargo-auditable 0.6.6: Make production Rust binaries auditable
-dev-util/cargo-deny 0.16.3: Cargo plugin to help you manage large dependency graphs
+dev-util/cargo-deny 0.16.4: Cargo plugin to help you manage large dependency graphs
 dev-util/cargo-expand 1.0.100: Subcommand to show the result of macro expansion and #[derive] expansion.
 dev-util/cargo-geiger 0.11.7-r1: Detects usage of unsafe Rust in a Rust crate and its dependencies.
 dev-util/cargo-watch 8.5.3-r1: Watches over your Cargo project’s source
@@ -31,6 +31,7 @@ gui-apps/clipman 1.6.4: A simple clipboard manager for Wayland
 gui-apps/wdisplays 1.1.1: A graphical application for configuring displays in Wayland compositors
 gui-apps/wev 1.0.0: wayland event viewer
 gui-apps/wl-mirror 0.17.0: A simple Wayland output mirror client
+gui-libs/gtk4-layer-shell 1.0.4: A library for using the Layer Shell protocol and GTK4 on wayland
 gui-libs/sway-systemd 0.4.0: Systemd integration for Sway session
 media-fonts/meslo-nerd 3.3.0: Nerd Font build of Apple's Menlo font, patched by ryanoasis
 media-fonts/terminess-nerd 3.3.0: Nerd Font build of Terminus font, patched by ryanoasis
@@ -40,9 +41,11 @@ media-plugins/obs-backgroundremoval 1.1.13: OBS plugin for removing background
 media-plugins/obs-livesplit-one 0.4.1-r1: A plugin for OBS Studio that allows adding LiveSplit One as a source
 media-plugins/obs-vkcapture 1.5.1: OBS Linux Vulkan/OpenGL game capture
 media-plugins/obs-wlrobs 1.1 9999: An obs-studio plugin for screen capture on wlroots based wayland compositors
+media-sound/mixxc 0.2.4: Minimalistic volume mixer.
 media-sound/pwvucontrol 0.4.7: Pipewire Volume Control
 media-video/libwireplumber-compat 0.4.17: Compatibility version 4.x of libwireplumber - client library
 net-analyzer/bandwhich 0.23.1-r1: Terminal bandwidth utilization tool
+net-analyzer/gobuster 3.6.0: Directory/File, DNS and VHost busting tool written in Go
 net-analyzer/gping 1.19.0: Ping, but with a graph.
 net-analyzer/subfinder 2.6.8: Fast passive subdomain enumeration tool
 net-im/teams-for-linux 1.12.5: Unofficial Microsoft Teams for Linux client
