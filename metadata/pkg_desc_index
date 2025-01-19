@@ -1,18 +1,18 @@
 app-admin/dotter 0.13.3-r2: A dotfile manager and templater written in rust
-app-arch/nfpm 2.38.0: Not FPM - a simple deb, rpm, apk, ipk, and arch linux packager written in Go
+app-arch/nfpm 2.41.2: Not FPM - a simple deb, rpm, apk, ipk, and arch linux packager written in Go
 app-containers/podman-compose 1.3.0: A script to run docker-compose.yml using podman
 app-laptop/fw-ectool 9999: ectool for the Framework laptop
 app-laptop/fw-fanctrl 9999: A simple systemd service to better control Framework Laptop's fan(s)
 app-misc/csvlens 0.11.0: Command line csv viewer
-app-misc/google-cloud-cli 504.0.0: Google Cloud CLI
-app-misc/google-cloud-cli-gke-gcloud-auth-plugin 504.0.0: A kubectl authentication plugin for GKE
+app-misc/google-cloud-cli 506.0.0: Google Cloud CLI
+app-misc/google-cloud-cli-gke-gcloud-auth-plugin 506.0.0: A kubectl authentication plugin for GKE
 app-misc/htmlq 0.4.0: Like jq, but for HTML.
 app-misc/sl-patched 3.03: SL (Steam Locomotive); old patched long version
 app-misc/spacer 0.3.0: A CLI utility for adding spacers when command output stops
 app-shells/gitstatus 1.5.5: Git status for Bash and Zsh prompt
 app-shells/powerlevel10k 1.20.0: A theme for Zsh. It emphasizes speed, flexibility and out-of-the-box experience.
 dev-build/just 1.38.0: 🤖 Just a command runner
-dev-util/bacon 3.7.0: background rust compiler
+dev-util/bacon 3.8.0: background rust compiler
 dev-util/cargo-auditable 0.6.6: Make production Rust binaries auditable
 dev-util/cargo-deny 0.16.3: Cargo plugin to help you manage large dependency graphs
 dev-util/cargo-expand 1.0.100: Subcommand to show the result of macro expansion and #[derive] expansion.
@@ -44,7 +44,7 @@ media-sound/pwvucontrol 0.4.7: Pipewire Volume Control
 media-video/libwireplumber-compat 0.4.17: Compatibility version 4.x of libwireplumber - client library
 net-analyzer/bandwhich 0.23.1-r1: Terminal bandwidth utilization tool
 net-analyzer/gping 1.19.0: Ping, but with a graph.
-net-analyzer/subfinder 2.6.7: Fast passive subdomain enumeration tool
+net-analyzer/subfinder 2.6.8: Fast passive subdomain enumeration tool
 net-im/teams-for-linux 1.12.5: Unofficial Microsoft Teams for Linux client
 net-misc/synology-drive-client 3.5.1.16102: Desktop utility of the DSM add-on package Synology Drive Server
 net-misc/warpinator 1.8.8: Share files across the LAN
@@ -57,7 +57,7 @@ sys-apps/jless 0.9.0-r1: A command-line JSON viewer
 sys-apps/sd 1.0.0-r1: An intuitive find & replace CLI
 sys-apps/skiller-ctl 0.1 9999: Control the additional features of Sharkoon Skiller (Pro/Pro+) keyboards
 sys-apps/zenmonitor3 2.0.0 9999: Monitoring software for AMD Zen-based CPUs with Zen 3 support
-sys-cluster/kustomize-bin 5.5.0: Customization of kubernetes YAML configurations
+sys-cluster/kustomize-bin 5.6.0: Customization of kubernetes YAML configurations
 sys-cluster/open-lens 6.5.2.366-r1: Open Source IDE for Kubernetes
 sys-kernel/it87 9999: IT87 sensors module
 sys-kernel/zenpower3 0.2.0 9999: Linux kernel driver for reading sensors of AMD Zen family CPUs
