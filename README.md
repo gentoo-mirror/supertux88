@@ -147,6 +147,10 @@ The following packages are available in this overlay:
 * gui-apps/wluma
   * Automatic brightness adjustment based on screen contents and ALS
   * https://github.com/maximbaz/wluma
+* gui-libs/gtk4-layer-shell
+  * A library to create panels and other desktop components for Wayland using the Layer Shell protocol and GTK4
+  * Dependency for mixxc
+  * https://github.com/wmww/gtk4-layer-shell
 * gui-libs/sway-systemd
   * Systemd integration for Sway session
   * https://github.com/alebastr/sway-systemd
@@ -177,6 +181,9 @@ The following packages are available in this overlay:
 * media-plugins/obs-wlrobs
   * An obs-studio plugin that allows you to screen capture on wlroots based wayland compositors
   * https://hg.sr.ht/~scoopta/wlrobs
+* media-sound/mixxc
+  * Minimalistic and flavorful volume mixer for widget enthusiasts
+  * https://github.com/Elvyria/Mixxc
 * media-sound/pwvucontrol
   * Pipewire Volume Control
   * https://github.com/saivert/pwvucontrol
@@ -189,6 +196,9 @@ The following packages are available in this overlay:
 * net-analyzer/gping
   * Ping, but with a graph
   * https://github.com/orf/gping
+* net-analyzer/gobuster
+  * Directory/File, DNS and VHost busting tool written in Go
+  * https://github.com/OJ/gobuster
 * net-analyzer/subfinder
   * Fast passive subdomain enumeration tool
   * https://github.com/projectdiscovery/subfinder

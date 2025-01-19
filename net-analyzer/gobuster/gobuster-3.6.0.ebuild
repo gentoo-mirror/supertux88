@@ -5,16 +5,14 @@ EAPI=8
 
 inherit go-module
 
-DESCRIPTION="Fast passive subdomain enumeration tool"
-HOMEPAGE="https://github.com/projectdiscovery/subfinder"
+DESCRIPTION="Directory/File, DNS and VHost busting tool written in Go"
+HOMEPAGE="https://github.com/OJ/gobuster"
 SRC_URI="
-	https://github.com/projectdiscovery/${PN}/archive/v${PV}.tar.gz -> ${P}.tar.gz
+	https://github.com/OJ/${PN}/archive/v${PV}.tar.gz -> ${P}.tar.gz
 	https://raw.githubusercontent.com/SuperTux88/gentoo-overlay-deps/main/${CATEGORY}/${PN}/${P}-vendor.tar.xz
 "
 
-S="${WORKDIR}/${P}/v2"
-
-LICENSE="MIT"
+LICENSE="Apache-2.0"
 SLOT="0"
 KEYWORDS="~amd64"
 
