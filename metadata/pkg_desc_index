@@ -11,7 +11,7 @@ app-misc/sl-patched 3.03: SL (Steam Locomotive); old patched long version
 app-misc/spacer 0.3.0: A CLI utility for adding spacers when command output stops
 app-shells/gitstatus 1.5.5: Git status for Bash and Zsh prompt
 app-shells/powerlevel10k 1.20.0: A theme for Zsh. It emphasizes speed, flexibility and out-of-the-box experience.
-dev-build/just 1.38.0: 🤖 Just a command runner
+dev-build/just 1.39.0: 🤖 Just a command runner
 dev-util/bacon 3.8.0: background rust compiler
 dev-util/cargo-auditable 0.6.6: Make production Rust binaries auditable
 dev-util/cargo-deny 0.16.4: Cargo plugin to help you manage large dependency graphs
@@ -23,7 +23,7 @@ dev-util/kopium 0.21.1-r1: Kubernetes OPenapI UnMangler
 dev-util/leptosfmt 0.1.32: view macro formatter CLI for the Leptos web framework
 dev-util/rust-audit-info 0.5.4: Command-line tool to extract the dependency trees embedded in binaries
 dev-util/tailspin 4.0.0-r1: A log file highlighter
-dev-util/trunk 0.21.5: Build, bundle & ship your Rust WASM application to the web.
+dev-util/trunk 0.21.7: Build, bundle & ship your Rust WASM application to the web.
 dev-util/wasm-pack 0.13.1: 📦✨ your favorite rust -> wasm workflow tool!
 dev-vcs/git-interactive-rebase-tool 2.4.1: Full feature terminal based sequence editor for git interactive rebase.
 gnome-extra/gnome-tweaks 45.2 46.1-r1: Customize advanced GNOME options
