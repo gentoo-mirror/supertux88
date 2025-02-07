@@ -12,15 +12,15 @@ app-misc/spacer 0.3.1: A CLI utility for adding spacers when command output stop
 app-shells/gitstatus 1.5.5: Git status for Bash and Zsh prompt
 app-shells/powerlevel10k 1.20.0: A theme for Zsh. It emphasizes speed, flexibility and out-of-the-box experience.
 dev-build/just 1.39.0: 🤖 Just a command runner
-dev-util/bacon 3.9.0: background rust compiler
+dev-util/bacon 3.9.1: background rust compiler
 dev-util/cargo-auditable 0.6.6: Make production Rust binaries auditable
 dev-util/cargo-deny 0.16.4: Cargo plugin to help you manage large dependency graphs
 dev-util/cargo-expand 1.0.100: Subcommand to show the result of macro expansion and #[derive] expansion.
 dev-util/cargo-geiger 0.11.7-r1: Detects usage of unsafe Rust in a Rust crate and its dependencies.
 dev-util/cargo-watch 8.5.3-r1: Watches over your Cargo project’s source
-dev-util/diesel-cli 2.2.6: Provides the CLI for the Diesel crate
+dev-util/diesel-cli 2.2.7: Provides the CLI for the Diesel crate
 dev-util/kopium 0.21.1-r1: Kubernetes OPenapI UnMangler
-dev-util/leptosfmt 0.1.32: view macro formatter CLI for the Leptos web framework
+dev-util/leptosfmt 0.1.33: view macro formatter CLI for the Leptos web framework
 dev-util/rust-audit-info 0.5.4: Command-line tool to extract the dependency trees embedded in binaries
 dev-util/tailspin 4.0.0-r1: A log file highlighter
 dev-util/trunk 0.21.7: Build, bundle & ship your Rust WASM application to the web.
@@ -67,7 +67,7 @@ sys-kernel/zenpower3 0.2.0 9999: Linux kernel driver for reading sensors of AMD 
 sys-power/amd_s2idle 0_pre20240708: S0i3/s2idle analysis script for AMD systems
 sys-power/poweralertd 0.3.0-r1: UPower-powered power alerter
 sys-power/sntrack 9999: Tracks the battery discharge rate during sleep
-www-servers/miniserve 0.28.0-r1: For when you really just want to serve some files over HTTP right now!
+www-servers/miniserve 0.29.0: For when you really just want to serve some files over HTTP right now!
 x11-apps/xfhd 9999: xfhd is a utility for resizing an X window to Full HD
 x11-drivers/displaylink-driver 6.1.0: DisplayLink USB Graphics Software
 x11-drivers/evdi 1.14.8: Extensible Virtual Display Interface
