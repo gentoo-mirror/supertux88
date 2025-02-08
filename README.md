@@ -48,9 +48,6 @@ The following packages are available in this overlay:
 * app-arch/nfpm
   * nFPM is Not FPM - a simple deb, rpm, apk, ipk, and arch linux packager written in Go
   * https://nfpm.goreleaser.com
-* app-containers/podman-compose
-  * A script to run docker-compose.yml using podman
-  * https://github.com/containers/podman-compose
 * app-laptop/fw-ectool
   * ectool for the Framework laptop
   * https://gitlab.howett.net/DHowett/ectool
@@ -82,12 +79,9 @@ The following packages are available in this overlay:
 * app-shells/powerlevel10k
   * A theme for Zsh. It emphasizes speed, flexibility and out-of-the-box experience
   * https://github.com/romkatv/powerlevel10k
-* dev-build/make
+* dev-build/just
   * Just a command runner
   * https://github.com/casey/just
-* dev-python/grpcio
-  * High-performance RPC framework (python libraries)
-  * https://grpc.io
 * dev-util/cargo-auditable
   * Make production Rust binaries auditable
   * https://github.com/rust-secure-code/cargo-auditable
@@ -132,9 +126,6 @@ The following packages are available in this overlay:
   * https://github.com/MitMaro/git-interactive-rebase-tool
 * gnome-extra/gnome-tweaks
   * Same as upstream, with additional `gnome-shell` USE flag
-* gui-apps/clipman
-  * A simple clipboard manager for Wayland
-  * https://github.com/chmouel/clipman
 * gui-apps/wdisplays
   * A graphical application for configuring displays in Wayland compositors
   * https://github.com/artizirk/wdisplays
@@ -144,9 +135,6 @@ The following packages are available in this overlay:
 * gui-apps/wl-mirror
   * A simple Wayland output mirror client
   * https://github.com/Ferdi265/wl-mirror
-* gui-apps/wluma
-  * Automatic brightness adjustment based on screen contents and ALS
-  * https://github.com/maximbaz/wluma
 * gui-libs/gtk4-layer-shell
   * A library to create panels and other desktop components for Wayland using the Layer Shell protocol and GTK4
   * Dependency for mixxc
@@ -156,9 +144,6 @@ The following packages are available in this overlay:
   * https://github.com/alebastr/sway-systemd
 * media-fonts/meslo-nerd
   * Nerd Font build of Apple's Menlo font
-  * https://github.com/ryanoasis/nerd-fonts
-* media-fonts/nerd-fonts-symbols
-  * High number of extra glyphs from popular 'iconic fonts'
   * https://github.com/ryanoasis/nerd-fonts
 * media-fonts/terminess-nerd
   * Nerd Font build of Terminus font
@@ -175,9 +160,6 @@ The following packages are available in this overlay:
 * media-plugins/obs-livesplit-one
   * A plugin for OBS Studio that allows adding LiveSplit One as a source
   * https://github.com/LiveSplit/obs-livesplit-one
-* media-plugins/obs-vkcapture
-  * OBS Linux Vulkan/OpenGL game capture
-  * https://github.com/nowrep/obs-vkcapture
 * media-plugins/obs-wlrobs
   * An obs-studio plugin that allows you to screen capture on wlroots based wayland compositors
   * https://hg.sr.ht/~scoopta/wlrobs
@@ -190,12 +172,6 @@ The following packages are available in this overlay:
 * media-video/libwireplumber-compat
   * Compatibility version 4.x of libwireplumber
   * Dependency for pwvucontrol (wireplumber.rs)
-* net-analyzer/bandwhich
-  * Terminal bandwidth utilization tool
-  * https://github.com/imsnif/bandwhich
-* net-analyzer/gping
-  * Ping, but with a graph
-  * https://github.com/orf/gping
 * net-analyzer/gobuster
   * Directory/File, DNS and VHost busting tool written in Go
   * https://github.com/OJ/gobuster
@@ -247,9 +223,9 @@ The following packages are available in this overlay:
 * sys-kernel/it87
   * IT87 sensors module
   * https://github.com/a1wong/it87
-* sys-kernel/zenpower3
-  * Linux kernel driver for reading sensors of AMD Zen family CPUs
-  * https://git.exozy.me/a/zenpower3
+* sys-kernel/zenstats
+  * Zenstats is a Linux kernel driver for reading temperature, voltage(SVI2), current(SVI2) and power(SVI2) for AMD Zen family CPUs
+  * https://github.com/Sid127/zenstats
 * sys-power/amd_s2idle
   * S0i3/s2idle analysis script for AMD systems
   * https://gitlab.freedesktop.org/drm/amd/-/blob/master/scripts/amd_s2idle.py
