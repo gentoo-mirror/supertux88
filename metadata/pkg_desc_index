@@ -29,7 +29,7 @@ gnome-extra/gnome-tweaks 45.2 46.1-r1: Customize advanced GNOME options
 gui-apps/wdisplays 1.1.1: A graphical application for configuring displays in Wayland compositors
 gui-apps/wev 1.0.0: wayland event viewer
 gui-apps/wl-mirror 0.17.0: A simple Wayland output mirror client
-gui-libs/gtk4-layer-shell 1.0.4: A library for using the Layer Shell protocol and GTK4 on wayland
+gui-libs/gtk4-layer-shell 1.1.0: A library for using the Layer Shell protocol and GTK4 on wayland
 gui-libs/sway-systemd 0.4.0: Systemd integration for Sway session
 media-fonts/meslo-nerd 3.3.0: Nerd Font build of Apple's Menlo font, patched by ryanoasis
 media-fonts/terminess-nerd 3.3.0: Nerd Font build of Terminus font, patched by ryanoasis
@@ -43,13 +43,13 @@ media-sound/pwvucontrol 0.4.7: Pipewire Volume Control
 media-video/libwireplumber-compat 0.4.17: Compatibility version 4.x of libwireplumber - client library
 net-analyzer/gobuster 3.6.0: Directory/File, DNS and VHost busting tool written in Go
 net-analyzer/subfinder 2.6.8: Fast passive subdomain enumeration tool
-net-im/teams-for-linux 1.12.5: Unofficial Microsoft Teams for Linux client
+net-im/teams-for-linux 1.12.7: Unofficial Microsoft Teams for Linux client
 net-misc/synology-drive-client 3.5.1.16102: Desktop utility of the DSM add-on package Synology Drive Server
 net-misc/warpinator 1.8.8: Share files across the LAN
 net-misc/xh 0.23.1: Friendly and fast tool for sending HTTP requests
 sci-electronics/openhantek6022 3.3.3: DSO software for Hantek USB digital signal oscilloscopes 6022BE / BL
 sec-keys/openpgp-keys-romkatv 20200204: OpenPGP keys used by Roman Perepelitsa
-sys-apps/dool 1.3.3: Versatile replacement for vmstat, iostat and ifstat (clone of dstat)
+sys-apps/dool 1.3.4: Versatile replacement for vmstat, iostat and ifstat (clone of dstat)
 sys-apps/hexyl 0.16.0: A command-line hex viewer
 sys-apps/jless 0.9.0-r1: A command-line JSON viewer
 sys-apps/sd 1.0.0-r1: An intuitive find & replace CLI
