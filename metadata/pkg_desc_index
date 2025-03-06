@@ -61,6 +61,7 @@ sys-kernel/zenstats 0.1.0: Linux kernel driver for reading sensors for AMD Zen f
 sys-power/amd_s2idle 0_pre20240708: S0i3/s2idle analysis script for AMD systems
 sys-power/poweralertd 0.3.0-r1: UPower-powered power alerter
 sys-power/sntrack 9999: Tracks the battery discharge rate during sleep
+sys-power/wluma 4.8.0: Automatic brightness adjustment based on screen contents and ALS
 www-servers/miniserve 0.29.0: For when you really just want to serve some files over HTTP right now!
 x11-apps/xfhd 9999: xfhd is a utility for resizing an X window to Full HD
 x11-drivers/displaylink-driver 6.1.0: DisplayLink USB Graphics Software
