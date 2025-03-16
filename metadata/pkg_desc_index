@@ -10,24 +10,24 @@ app-misc/sl-patched 3.03: SL (Steam Locomotive); old patched long version
 app-misc/spacer 0.3.8: A CLI utility for adding spacers when command output stops
 app-shells/gitstatus 1.5.5: Git status for Bash and Zsh prompt
 app-shells/powerlevel10k 1.20.0: A theme for Zsh. It emphasizes speed, flexibility and out-of-the-box experience.
-dev-util/bacon 3.11.0: background rust compiler
+dev-util/bacon 3.12.0: background rust compiler
 dev-util/cargo-auditable 0.6.6: Make production Rust binaries auditable
-dev-util/cargo-deny 0.18.1: Cargo plugin to help you manage large dependency graphs
-dev-util/cargo-expand 1.0.101: Subcommand to show the result of macro expansion and #[derive] expansion.
+dev-util/cargo-deny 0.18.2: Cargo plugin to help you manage large dependency graphs
+dev-util/cargo-expand 1.0.102: Subcommand to show the result of macro expansion and #[derive] expansion.
 dev-util/cargo-geiger 0.11.7-r1: Detects usage of unsafe Rust in a Rust crate and its dependencies.
 dev-util/cargo-watch 8.5.3-r1: Watches over your Cargo project’s source
 dev-util/diesel-cli 2.2.8: Provides the CLI for the Diesel crate
-dev-util/kopium 0.21.1-r1: Kubernetes OPenapI UnMangler
+dev-util/kopium 0.21.2: Kubernetes OPenapI UnMangler
 dev-util/leptosfmt 0.1.33: view macro formatter CLI for the Leptos web framework
 dev-util/rust-audit-info 0.5.4: Command-line tool to extract the dependency trees embedded in binaries
 dev-util/tailspin 4.0.0-r1: A log file highlighter
-dev-util/trunk 0.21.8: Build, bundle & ship your Rust WASM application to the web.
+dev-util/trunk 0.21.9: Build, bundle & ship your Rust WASM application to the web.
 dev-util/wasm-pack 0.13.1: 📦✨ your favorite rust -> wasm workflow tool!
 dev-vcs/git-interactive-rebase-tool 2.4.1: Full feature terminal based sequence editor for git interactive rebase.
 gnome-extra/gnome-tweaks 45.2 46.1-r1: Customize advanced GNOME options
 gui-apps/wdisplays 1.1.1: A graphical application for configuring displays in Wayland compositors
 gui-apps/wev 1.0.0: wayland event viewer
-gui-apps/wl-mirror 0.17.0: A simple Wayland output mirror client
+gui-apps/wl-mirror 0.18.0: A simple Wayland output mirror client
 gui-libs/gtk4-layer-shell 1.1.0: A library for using the Layer Shell protocol and GTK4 on wayland
 gui-libs/sway-systemd 0.4.0: Systemd integration for Sway session
 media-fonts/meslo-nerd 3.3.0: Nerd Font build of Apple's Menlo font, patched by ryanoasis
@@ -66,4 +66,4 @@ www-servers/miniserve 0.29.0: For when you really just want to serve some files 
 x11-apps/xfhd 9999: xfhd is a utility for resizing an X window to Full HD
 x11-drivers/displaylink-driver 6.1.0: DisplayLink USB Graphics Software
 x11-drivers/evdi 1.14.8: Extensible Virtual Display Interface
-x11-misc/ly 1.0.2-r1: a TUI display manager
+x11-misc/ly 1.0.3: a TUI display manager
