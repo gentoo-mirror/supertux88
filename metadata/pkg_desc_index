@@ -13,7 +13,7 @@ app-shells/powerlevel10k 1.20.0: A theme for Zsh. It emphasizes speed, flexibili
 dev-util/bacon 3.12.0: background rust compiler
 dev-util/cargo-auditable 0.6.6: Make production Rust binaries auditable
 dev-util/cargo-deny 0.18.2: Cargo plugin to help you manage large dependency graphs
-dev-util/cargo-expand 1.0.102: Subcommand to show the result of macro expansion and #[derive] expansion.
+dev-util/cargo-expand 1.0.104: Subcommand to show the result of macro expansion and #[derive] expansion.
 dev-util/cargo-geiger 0.11.7-r1: Detects usage of unsafe Rust in a Rust crate and its dependencies.
 dev-util/cargo-watch 8.5.3-r1: Watches over your Cargo project’s source
 dev-util/diesel-cli 2.2.8: Provides the CLI for the Diesel crate
@@ -27,7 +27,7 @@ dev-vcs/git-interactive-rebase-tool 2.4.1: Full feature terminal based sequence 
 gnome-extra/gnome-tweaks 45.2 46.1-r1: Customize advanced GNOME options
 gui-apps/wdisplays 1.1.1: A graphical application for configuring displays in Wayland compositors
 gui-apps/wev 1.0.0: wayland event viewer
-gui-apps/wl-mirror 0.18.0: A simple Wayland output mirror client
+gui-apps/wl-mirror 0.18.1: A simple Wayland output mirror client
 gui-libs/gtk4-layer-shell 1.1.0: A library for using the Layer Shell protocol and GTK4 on wayland
 gui-libs/sway-systemd 0.4.0: Systemd integration for Sway session
 media-fonts/meslo-nerd 3.3.0: Nerd Font build of Apple's Menlo font, patched by ryanoasis
@@ -43,7 +43,7 @@ media-video/libwireplumber-compat 0.4.17: Compatibility version 4.x of libwirepl
 net-analyzer/gobuster 3.6.0: Directory/File, DNS and VHost busting tool written in Go
 net-analyzer/subfinder 2.7.0: Fast passive subdomain enumeration tool
 net-im/teams-for-linux 1.13.0: Unofficial Microsoft Teams for Linux client
-net-misc/synology-drive-client 3.5.2.16110: Desktop utility of the DSM add-on package Synology Drive Server
+net-misc/synology-drive-client 3.5.2.16111: Desktop utility of the DSM add-on package Synology Drive Server
 net-misc/warpinator 1.8.8: Share files across the LAN
 net-misc/xh 0.24.0: Friendly and fast tool for sending HTTP requests
 sci-electronics/openhantek6022 3.3.3: DSO software for Hantek USB digital signal oscilloscopes 6022BE / BL
@@ -65,5 +65,5 @@ sys-power/wluma 4.8.0: Automatic brightness adjustment based on screen contents 
 www-servers/miniserve 0.29.0: For when you really just want to serve some files over HTTP right now!
 x11-apps/xfhd 9999: xfhd is a utility for resizing an X window to Full HD
 x11-drivers/displaylink-driver 6.1.0: DisplayLink USB Graphics Software
-x11-drivers/evdi 1.14.8: Extensible Virtual Display Interface
+x11-drivers/evdi 1.14.9: Extensible Virtual Display Interface
 x11-misc/ly 1.0.3: a TUI display manager
