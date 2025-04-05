@@ -4,8 +4,10 @@
 
 app-admin/dotter:scripting - Enable scripting support with rhai helpers
 app-admin/dotter:watch - Enable watch sub-command
+app-laptop/fw-fanctrl:no-battery-sensors - disable checking battery temperature sensors
 app-shells/powerlevel10k:nerd-fonts - Install MesloLGS Nerd Font
 gnome-extra/gnome-tweaks:gnome-shell - Install gnome-base/gnome-shell tweaks
+gui-apps/wl-mirror:dmabuf - Use libgbm and libdrm to enable the dmabuf backends
 gui-libs/gtk4-layer-shell:smoke-tests - Test that all examples can run
 gui-libs/sway-systemd:autostart - Include sway-xdg-autostart.target to allow delayed start from a script
 gui-libs/sway-systemd:locale1 - Read the system-wide input configuration from systemd

@@ -42,7 +42,7 @@ media-sound/pwvucontrol 0.4.9: Pipewire Volume Control
 media-video/libwireplumber-compat 0.4.17: Compatibility version 4.x of libwireplumber - client library
 net-analyzer/gobuster 3.6.0: Directory/File, DNS and VHost busting tool written in Go
 net-analyzer/subfinder 2.7.0: Fast passive subdomain enumeration tool
-net-im/teams-for-linux 2.0.2: Unofficial Microsoft Teams for Linux client
+net-im/teams-for-linux 2.0.3: Unofficial Microsoft Teams for Linux client
 net-misc/synology-drive-client 3.5.2.16111: Desktop utility of the DSM add-on package Synology Drive Server
 net-misc/warpinator 1.8.8: Share files across the LAN
 net-misc/xh 0.24.0: Friendly and fast tool for sending HTTP requests
