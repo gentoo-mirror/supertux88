@@ -13,15 +13,15 @@ app-shells/powerlevel10k 1.20.0: A theme for Zsh. It emphasizes speed, flexibili
 dev-util/bacon 3.12.0: background rust compiler
 dev-util/cargo-auditable 0.6.6: Make production Rust binaries auditable
 dev-util/cargo-deny 0.18.2: Cargo plugin to help you manage large dependency graphs
-dev-util/cargo-expand 1.0.105: Subcommand to show the result of macro expansion and #[derive] expansion.
+dev-util/cargo-expand 1.0.106: Subcommand to show the result of macro expansion and #[derive] expansion.
 dev-util/cargo-geiger 0.11.7-r1: Detects usage of unsafe Rust in a Rust crate and its dependencies.
 dev-util/cargo-watch 8.5.3-r1: Watches over your Cargo project’s source
-dev-util/diesel-cli 2.2.8: Provides the CLI for the Diesel crate
+dev-util/diesel-cli 2.2.9: Provides the CLI for the Diesel crate
 dev-util/kopium 0.21.2: Kubernetes OPenapI UnMangler
 dev-util/leptosfmt 0.1.33: view macro formatter CLI for the Leptos web framework
 dev-util/rust-audit-info 0.5.4: Command-line tool to extract the dependency trees embedded in binaries
 dev-util/tailspin 5.1.0: A log file highlighter
-dev-util/trunk 0.21.12: Build, bundle & ship your Rust WASM application to the web.
+dev-util/trunk 0.21.13: Build, bundle & ship your Rust WASM application to the web.
 dev-util/wasm-pack 0.13.1: 📦✨ your favorite rust -> wasm workflow tool!
 dev-vcs/git-interactive-rebase-tool 2.4.1: Full feature terminal based sequence editor for git interactive rebase.
 gnome-extra/gnome-tweaks 45.2 46.1-r1: Customize advanced GNOME options
@@ -42,7 +42,7 @@ media-sound/pwvucontrol 0.4.9: Pipewire Volume Control
 media-video/libwireplumber-compat 0.4.17: Compatibility version 4.x of libwireplumber - client library
 net-analyzer/gobuster 3.6.0: Directory/File, DNS and VHost busting tool written in Go
 net-analyzer/subfinder 2.7.0: Fast passive subdomain enumeration tool
-net-im/teams-for-linux 2.0.3: Unofficial Microsoft Teams for Linux client
+net-im/teams-for-linux 2.0.7: Unofficial Microsoft Teams for Linux client
 net-misc/synology-drive-client 3.5.2.16111: Desktop utility of the DSM add-on package Synology Drive Server
 net-misc/warpinator 1.8.8: Share files across the LAN
 net-misc/xh 0.24.0: Friendly and fast tool for sending HTTP requests
