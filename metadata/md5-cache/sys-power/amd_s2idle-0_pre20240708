@@ -11,5 +11,5 @@ RDEPEND=dev-python/pyudev dev-python/python-systemd sys-apps/ethtool sys-power/i
 REQUIRED_USE=^^ ( python_single_target_python3_13t python_single_target_python3_10 python_single_target_python3_11 python_single_target_python3_12 python_single_target_python3_13 )
 SLOT=0
 SRC_URI=https://gitlab.freedesktop.org/drm/amd/-/raw/5ad0395be1aa457aa9a4128b358a4b005ffde3bf/scripts/amd_s2idle.py?inline=false -> amd_s2idle-0_pre20240708.py
-_eclasses_=multiprocessing	1e32df7deee68372153dca65f4a7c21f	toolchain-funcs	f9d71a6efe9d083aec750dd13968e169	python-utils-r1	b7726144f5af59e186d66746d0f513e5	python-single-r1	47d8ac9be330c9366112b78fd4f8ce57
+_eclasses_=multiprocessing	1e32df7deee68372153dca65f4a7c21f	toolchain-funcs	f9d71a6efe9d083aec750dd13968e169	python-utils-r1	d1be7a6de225276141d669742d56f3f3	python-single-r1	47d8ac9be330c9366112b78fd4f8ce57
 _md5_=65f93acf2d0cbcf947686c3dd61f0dc4
