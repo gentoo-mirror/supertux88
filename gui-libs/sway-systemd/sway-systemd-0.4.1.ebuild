@@ -1,4 +1,4 @@
-# Copyright 2024 Gentoo Authors
+# Copyright 2024-2025 Gentoo Authors
 # Distributed under the terms of the GNU General Public License v2
 
 EAPI=8
@@ -16,7 +16,6 @@ IUSE="autostart locale1"
 
 DEPEND="
 	gui-wm/sway
-	sys-apps/systemd
 "
 RDEPEND="
 	${DEPEND}
@@ -39,4 +38,10 @@ src_configure() {
 		-Dautoload-configs=$(join_comma ${args[@]})
 	)
 	meson_src_configure
+}
+
+pkg_postinst(){
+	if ! has_version sys-apps/systemd; then
+		ewarn "${PN} is not functional without sys-apps/systemd."
+	fi
 }
