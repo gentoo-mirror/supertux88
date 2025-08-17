@@ -3,8 +3,8 @@ app-arch/nfpm 2.41.2: Not FPM - a simple deb, rpm, apk, ipk, and arch linux pack
 app-laptop/fw-ectool 9999: ectool for the Framework laptop
 app-laptop/fw-fanctrl 9999: A simple systemd service to better control Framework Laptop's fan(s)
 app-misc/csvlens 0.12.0: Command line csv viewer
-app-misc/google-cloud-cli 529.0.0: Google Cloud CLI
-app-misc/google-cloud-cli-gke-gcloud-auth-plugin 529.0.0: A kubectl authentication plugin for GKE
+app-misc/google-cloud-cli 534.0.0: Google Cloud CLI
+app-misc/google-cloud-cli-gke-gcloud-auth-plugin 534.0.0: A kubectl authentication plugin for GKE
 app-misc/htmlq 0.4.0: Like jq, but for HTML.
 app-misc/sl-patched 3.03: SL (Steam Locomotive); old patched long version
 app-misc/spacer 0.3.8: A CLI utility for adding spacers when command output stops
@@ -12,26 +12,24 @@ app-shells/gitstatus 1.5.5: Git status for Bash and Zsh prompt
 app-shells/powerlevel10k 1.20.0: A theme for Zsh. It emphasizes speed, flexibility and out-of-the-box experience.
 dev-util/bacon 3.12.0: background rust compiler
 dev-util/cargo-auditable 0.6.6: Make production Rust binaries auditable
-dev-util/cargo-deny 0.18.2: Cargo plugin to help you manage large dependency graphs
-dev-util/cargo-expand 1.0.106: Subcommand to show the result of macro expansion and #[derive] expansion.
+dev-util/cargo-deny 0.18.4: Cargo plugin to help you manage large dependency graphs
+dev-util/cargo-expand 1.0.114: Subcommand to show the result of macro expansion and #[derive] expansion.
 dev-util/cargo-geiger 0.11.7-r1: Detects usage of unsafe Rust in a Rust crate and its dependencies.
 dev-util/cargo-watch 8.5.3-r1: Watches over your Cargo project’s source
 dev-util/diesel-cli 2.2.9: Provides the CLI for the Diesel crate
 dev-util/kopium 0.21.2: Kubernetes OPenapI UnMangler
 dev-util/leptosfmt 0.1.33: view macro formatter CLI for the Leptos web framework
 dev-util/rust-audit-info 0.5.4: Command-line tool to extract the dependency trees embedded in binaries
-dev-util/tailspin 5.1.0: A log file highlighter
+dev-util/tailspin 5.4.5: A log file highlighter
 dev-util/trunk 0.21.13: Build, bundle & ship your Rust WASM application to the web.
 dev-util/wasm-pack 0.13.1: 📦✨ your favorite rust -> wasm workflow tool!
 dev-vcs/git-interactive-rebase-tool 2.4.1: Full feature terminal based sequence editor for git interactive rebase.
 gnome-extra/gnome-tweaks 46.1-r1: Customize advanced GNOME options
-gui-apps/wdisplays 1.1.1: A graphical application for configuring displays in Wayland compositors
-gui-apps/wev 1.0.0: wayland event viewer
-gui-apps/wl-mirror 0.18.1: A simple Wayland output mirror client
-gui-libs/gtk4-layer-shell 1.1.1: A library for using the Layer Shell protocol and GTK4 on wayland
+gui-apps/wl-mirror 0.18.3: A simple Wayland output mirror client
+gui-libs/gtk4-layer-shell 1.2.0: A library for using the Layer Shell protocol and GTK4 on wayland
 gui-libs/sway-systemd 0.4.1: Systemd integration for Sway session
-media-fonts/meslo-nerd 3.3.0: Nerd Font build of Apple's Menlo font, patched by ryanoasis
-media-fonts/terminess-nerd 3.3.0: Nerd Font build of Terminus font, patched by ryanoasis
+media-fonts/meslo-nerd 3.4.0: Nerd Font build of Apple's Menlo font, patched by ryanoasis
+media-fonts/terminess-nerd 3.4.0: Nerd Font build of Terminus font, patched by ryanoasis
 media-fonts/terminus-ttf 4.49.3: A TrueType version of Terminus Font
 media-gfx/corrupter 1.0: Simple image glitcher suitable for producing nice looking lockscreens
 media-plugins/obs-backgroundremoval 1.1.13: OBS plugin for removing background
@@ -54,7 +52,7 @@ sys-apps/jless 0.9.0-r1: A command-line JSON viewer
 sys-apps/sd 1.0.0-r1: An intuitive find & replace CLI
 sys-apps/skiller-ctl 0.1 9999: Control the additional features of Sharkoon Skiller (Pro/Pro+) keyboards
 sys-apps/zenmonitor3 2.0.0 9999: Monitoring software for AMD Zen-based CPUs with Zen 3 support
-sys-cluster/kustomize-bin 5.6.0: Customization of kubernetes YAML configurations
+sys-cluster/kustomize-bin 5.7.1: Customization of kubernetes YAML configurations
 sys-cluster/open-lens 6.5.2.366-r1: Open Source IDE for Kubernetes
 sys-kernel/it87 9999: IT87 sensors module
 sys-kernel/zenstats 0.1.0: Linux kernel driver for reading sensors for AMD Zen family CPUs
