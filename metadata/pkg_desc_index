@@ -1,5 +1,5 @@
 app-admin/dotter 0.13.4: A dotfile manager and templater written in rust
-app-arch/nfpm 2.41.2: Not FPM - a simple deb, rpm, apk, ipk, and arch linux packager written in Go
+app-arch/nfpm 2.43.1: Not FPM - a simple deb, rpm, apk, ipk, and arch linux packager written in Go
 app-laptop/fw-ectool 9999: ectool for the Framework laptop
 app-laptop/fw-fanctrl 9999: A simple systemd service to better control Framework Laptop's fan(s)
 app-misc/csvlens 0.13.0: Command line csv viewer
@@ -10,14 +10,14 @@ app-misc/sl-patched 3.03: SL (Steam Locomotive); old patched long version
 app-misc/spacer 0.5.0: A CLI utility for adding spacers when command output stops
 app-shells/gitstatus 1.5.5: Git status for Bash and Zsh prompt
 app-shells/powerlevel10k 1.20.0: A theme for Zsh. It emphasizes speed, flexibility and out-of-the-box experience.
-dev-util/bacon 3.17.0: background rust compiler
+dev-util/bacon 3.18.0: background rust compiler
 dev-util/cargo-auditable 0.7.0: Make production Rust binaries auditable
-dev-util/cargo-deny 0.18.4: Cargo plugin to help you manage large dependency graphs
+dev-util/cargo-deny 0.18.5: Cargo plugin to help you manage large dependency graphs
 dev-util/cargo-expand 1.0.116: Subcommand to show the result of macro expansion and #[derive] expansion.
 dev-util/cargo-geiger 0.13.0: Detects usage of unsafe Rust in a Rust crate and its dependencies.
 dev-util/cargo-watch 8.5.3-r1: Watches over your Cargo project’s source
 dev-util/diesel-cli 2.3.2: Provides the CLI for the Diesel crate
-dev-util/kopium 0.22.4: Kubernetes OPenapI UnMangler
+dev-util/kopium 0.22.5: Kubernetes OPenapI UnMangler
 dev-util/leptosfmt 0.1.33: view macro formatter CLI for the Leptos web framework
 dev-util/rust-audit-info 0.5.4: Command-line tool to extract the dependency trees embedded in binaries
 dev-util/tailspin 5.5.0: A log file highlighter
@@ -39,7 +39,7 @@ media-sound/mixxc 0.2.4: Minimalistic volume mixer.
 media-sound/pwvucontrol 0.4.9: Pipewire Volume Control
 media-video/libwireplumber-compat 0.4.17: Compatibility version 4.x of libwireplumber - client library
 net-analyzer/gobuster 3.6.0: Directory/File, DNS and VHost busting tool written in Go
-net-analyzer/subfinder 2.7.0: Fast passive subdomain enumeration tool
+net-analyzer/subfinder 2.8.0: Fast passive subdomain enumeration tool
 net-im/teams-for-linux 2.2.1 2.5.8: Unofficial Microsoft Teams for Linux client
 net-misc/synology-drive-client 3.5.2.16111: Desktop utility of the DSM add-on package Synology Drive Server
 net-misc/warpinator 1.8.10: Share files across the LAN
