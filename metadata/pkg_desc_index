@@ -3,8 +3,8 @@ app-arch/nfpm 2.43.1: Not FPM - a simple deb, rpm, apk, ipk, and arch linux pack
 app-laptop/fw-ectool 9999: ectool for the Framework laptop
 app-laptop/fw-fanctrl 9999: A simple systemd service to better control Framework Laptop's fan(s)
 app-misc/csvlens 0.13.0: Command line csv viewer
-app-misc/google-cloud-cli 534.0.0: Google Cloud CLI
-app-misc/google-cloud-cli-gke-gcloud-auth-plugin 534.0.0: A kubectl authentication plugin for GKE
+app-misc/google-cloud-cli 540.0.0: Google Cloud CLI
+app-misc/google-cloud-cli-gke-gcloud-auth-plugin 540.0.0: A kubectl authentication plugin for GKE
 app-misc/htmlq 0.4.0: Like jq, but for HTML.
 app-misc/sl-patched 3.03: SL (Steam Locomotive); old patched long version
 app-misc/spacer 0.5.0: A CLI utility for adding spacers when command output stops
@@ -53,7 +53,6 @@ sys-apps/sd 1.0.0-r1: An intuitive find & replace CLI
 sys-apps/skiller-ctl 0.1 9999: Control the additional features of Sharkoon Skiller (Pro/Pro+) keyboards
 sys-apps/zenmonitor3 2.0.0 9999: Monitoring software for AMD Zen-based CPUs with Zen 3 support
 sys-cluster/kustomize-bin 5.7.1: Customization of kubernetes YAML configurations
-sys-cluster/open-lens 6.5.2.366-r1: Open Source IDE for Kubernetes
 sys-kernel/it87 9999: IT87 sensors module
 sys-kernel/zenstats 0.1.0: Linux kernel driver for reading sensors for AMD Zen family CPUs
 sys-power/amd_s2idle 0_pre20240708: S0i3/s2idle analysis script for AMD systems
@@ -62,6 +61,6 @@ sys-power/sntrack 9999: Tracks the battery discharge rate during sleep
 sys-power/wluma 4.10.0: Automatic brightness adjustment based on screen contents and ALS
 www-servers/miniserve 0.32.0: For when you really just want to serve some files over HTTP right now!
 x11-apps/xfhd 9999: xfhd is a utility for resizing an X window to Full HD
-x11-drivers/displaylink-driver 6.1.0: DisplayLink USB Graphics Software
-x11-drivers/evdi 1.14.9: Extensible Virtual Display Interface
+x11-drivers/displaylink-driver 6.2.0: DisplayLink USB Graphics Software
+x11-drivers/evdi 1.14.11: Extensible Virtual Display Interface
 x11-misc/ly 1.0.3: a TUI display manager
