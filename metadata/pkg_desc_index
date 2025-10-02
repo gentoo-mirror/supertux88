@@ -13,7 +13,7 @@ app-shells/powerlevel10k 1.20.0: A theme for Zsh. It emphasizes speed, flexibili
 dev-util/bacon 3.18.0: background rust compiler
 dev-util/cargo-auditable 0.7.0: Make production Rust binaries auditable
 dev-util/cargo-deny 0.18.5: Cargo plugin to help you manage large dependency graphs
-dev-util/cargo-expand 1.0.116: Subcommand to show the result of macro expansion and #[derive] expansion.
+dev-util/cargo-expand 1.0.117: Subcommand to show the result of macro expansion and #[derive] expansion.
 dev-util/cargo-geiger 0.13.0: Detects usage of unsafe Rust in a Rust crate and its dependencies.
 dev-util/cargo-watch 8.5.3-r1: Watches over your Cargo project’s source
 dev-util/diesel-cli 2.3.2: Provides the CLI for the Diesel crate
@@ -25,6 +25,7 @@ dev-util/trunk 0.21.14: Build, bundle & ship your Rust WASM application to the w
 dev-util/wasm-pack 0.13.1: 📦✨ your favorite rust -> wasm workflow tool!
 dev-vcs/git-interactive-rebase-tool 2.4.1: Full feature terminal based sequence editor for git interactive rebase.
 gnome-extra/gnome-tweaks 46.1-r1: Customize advanced GNOME options
+gui-apps/waybar 0.14.0: Highly customizable Wayland bar for Sway and Wlroots based compositors
 gui-apps/wl-mirror 0.18.3: A simple Wayland output mirror client
 gui-libs/gtk4-layer-shell 1.2.0: A library for using the Layer Shell protocol and GTK4 on wayland
 gui-libs/sway-systemd 0.4.1: Systemd integration for Sway session
@@ -40,7 +41,7 @@ media-sound/pwvucontrol 0.4.9: Pipewire Volume Control
 media-video/libwireplumber-compat 0.4.17: Compatibility version 4.x of libwireplumber - client library
 net-analyzer/gobuster 3.6.0: Directory/File, DNS and VHost busting tool written in Go
 net-analyzer/subfinder 2.9.0: Fast passive subdomain enumeration tool
-net-im/teams-for-linux 2.2.1 2.5.8: Unofficial Microsoft Teams for Linux client
+net-im/teams-for-linux 2.2.1 2.5.9: Unofficial Microsoft Teams for Linux client
 net-misc/synology-drive-client 3.5.2.16111: Desktop utility of the DSM add-on package Synology Drive Server
 net-misc/warpinator 1.8.10: Share files across the LAN
 net-misc/xh 0.25.0: Friendly and fast tool for sending HTTP requests

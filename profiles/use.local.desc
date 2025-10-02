@@ -7,6 +7,20 @@ app-admin/dotter:watch - Enable watch sub-command
 app-laptop/fw-fanctrl:no-battery-sensors - disable checking battery temperature sensors
 app-shells/powerlevel10k:nerd-fonts - Install MesloLGS Nerd Font
 gnome-extra/gnome-tweaks:gnome-shell - Install gnome-base/gnome-shell tweaks
+gui-apps/waybar:backlight - Enable module that controls the current backlight level
+gui-apps/waybar:evdev - Enable libevdev support for evdev related features
+gui-apps/waybar:experimental - Enable experimental features, such as Bluetooth battery reporting
+gui-apps/waybar:libinput - Enable libinput support for libinput related features
+gui-apps/waybar:logind - Enable support for logind (bluetooth and idle inhibit)
+gui-apps/waybar:mpd - Enable support for the Music Player Daemon
+gui-apps/waybar:mpris - Enable support for mpris
+gui-apps/waybar:network - Enable libnl support for network related features
+gui-apps/waybar:niri - Enable support for Niri Wayland compositor
+gui-apps/waybar:pipewire - Enable support for pipewire
+gui-apps/waybar:pulseaudio - Enable support for volume control via PulseAudio
+gui-apps/waybar:sndio - Enable support for volume control via sndio
+gui-apps/waybar:tray - Enable support for tray
+gui-apps/waybar:wifi - Enable support for wifi/rfkill
 gui-apps/wl-mirror:dmabuf - Use libgbm and libdrm to enable the dmabuf backends
 gui-libs/gtk4-layer-shell:smoke-tests - Test that all examples can run
 gui-libs/sway-systemd:autostart - Include sway-xdg-autostart.target to allow delayed start from a script
