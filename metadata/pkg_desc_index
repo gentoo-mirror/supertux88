@@ -10,10 +10,10 @@ app-misc/sl-patched 3.03: SL (Steam Locomotive); old patched long version
 app-misc/spacer 0.5.0: A CLI utility for adding spacers when command output stops
 app-shells/gitstatus 1.5.5: Git status for Bash and Zsh prompt
 app-shells/powerlevel10k 1.20.0: A theme for Zsh. It emphasizes speed, flexibility and out-of-the-box experience.
-dev-util/bacon 3.18.0: background rust compiler
-dev-util/cargo-auditable 0.7.0: Make production Rust binaries auditable
+dev-util/bacon 3.19.0: background rust compiler
+dev-util/cargo-auditable 0.7.1: Make production Rust binaries auditable
 dev-util/cargo-deny 0.18.5: Cargo plugin to help you manage large dependency graphs
-dev-util/cargo-expand 1.0.117: Subcommand to show the result of macro expansion and #[derive] expansion.
+dev-util/cargo-expand 1.0.118: Subcommand to show the result of macro expansion and #[derive] expansion.
 dev-util/cargo-geiger 0.13.0: Detects usage of unsafe Rust in a Rust crate and its dependencies.
 dev-util/cargo-watch 8.5.3-r1: Watches over your Cargo project’s source
 dev-util/diesel-cli 2.3.2: Provides the CLI for the Diesel crate
@@ -40,7 +40,7 @@ media-sound/pwvucontrol 0.4.9: Pipewire Volume Control
 media-video/libwireplumber-compat 0.4.17: Compatibility version 4.x of libwireplumber - client library
 net-analyzer/gobuster 3.8.2: Directory/File, DNS and VHost busting tool written in Go
 net-analyzer/subfinder 2.9.0: Fast passive subdomain enumeration tool
-net-im/teams-for-linux 2.2.1 2.5.10: Unofficial Microsoft Teams for Linux client
+net-im/teams-for-linux 2.2.1 2.6.0: Unofficial Microsoft Teams for Linux client
 net-misc/synology-drive-client 3.5.2.16111: Desktop utility of the DSM add-on package Synology Drive Server
 net-misc/warpinator 1.8.10: Share files across the LAN
 net-misc/xh 0.25.0: Friendly and fast tool for sending HTTP requests
@@ -63,4 +63,4 @@ www-servers/miniserve 0.32.0: For when you really just want to serve some files 
 x11-apps/xfhd 9999: xfhd is a utility for resizing an X window to Full HD
 x11-drivers/displaylink-driver 6.2.0: DisplayLink USB Graphics Software
 x11-drivers/evdi 1.14.11: Extensible Virtual Display Interface
-x11-misc/ly 1.1.2: a TUI display manager
+x11-misc/ly 1.2.0: a TUI display manager
