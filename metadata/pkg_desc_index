@@ -1,5 +1,5 @@
 app-admin/dotter 0.13.4: A dotfile manager and templater written in rust
-app-arch/nfpm 2.43.1: Not FPM - a simple deb, rpm, apk, ipk, and arch linux packager written in Go
+app-arch/nfpm 2.43.4: Not FPM - a simple deb, rpm, apk, ipk, and arch linux packager written in Go
 app-laptop/fw-ectool 9999: ectool for the Framework laptop
 app-laptop/fw-fanctrl 9999: A simple systemd service to better control Framework Laptop's fan(s)
 app-misc/csvlens 0.13.0: Command line csv viewer
@@ -36,11 +36,11 @@ media-plugins/obs-backgroundremoval 1.1.13: OBS plugin for removing background
 media-plugins/obs-livesplit-one 0.4.1-r1: A plugin for OBS Studio that allows adding LiveSplit One as a source
 media-plugins/obs-wlrobs 1.1 9999: An obs-studio plugin for screen capture on wlroots based wayland compositors
 media-sound/mixxc 0.2.4: Minimalistic volume mixer.
-media-sound/pwvucontrol 0.4.9: Pipewire Volume Control
+media-sound/pwvucontrol 0.5.0: Pipewire Volume Control
 media-video/libwireplumber-compat 0.4.17: Compatibility version 4.x of libwireplumber - client library
 net-analyzer/gobuster 3.8.2: Directory/File, DNS and VHost busting tool written in Go
 net-analyzer/subfinder 2.9.0: Fast passive subdomain enumeration tool
-net-im/teams-for-linux 2.2.1 2.6.0: Unofficial Microsoft Teams for Linux client
+net-im/teams-for-linux 2.2.1 2.6.3: Unofficial Microsoft Teams for Linux client
 net-misc/synology-drive-client 3.5.2.16111: Desktop utility of the DSM add-on package Synology Drive Server
 net-misc/warpinator 1.8.10: Share files across the LAN
 net-misc/xh 0.25.0: Friendly and fast tool for sending HTTP requests
